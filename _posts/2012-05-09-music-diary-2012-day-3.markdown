@@ -1,0 +1,32 @@
+---
+layout: post
+status: publish
+published: true
+title: Music Diary 2012 - Day 3
+author: Colin Ramsay
+author_login: colinramsay
+author_email: colinramsay@gmail.com
+author_url: http://colinramsay.co.uk
+wordpress_id: 766
+wordpress_url: http://colinramsay.co.uk/?p=766
+date: !binary |-
+  MjAxMi0wNS0wOSAyMzoxMTo1MiArMDEwMA==
+date_gmt: !binary |-
+  MjAxMi0wNS0wOSAyMjoxMTo1MiArMDEwMA==
+categories:
+- Music Diary 2012
+tags: []
+comments: []
+---
+<p><strong>Michael Kiwanuka - Home Again</strong> (<a href="http://open.spotify.com/user/colinramsay/playlist/6gzeZl9UEiR3RAvh6Q7qUd">spotify link</a>)</p>
+<p>I only got hold of this album a short while ago, and I really like it. Since then I've heard quite a few people playing it so I wonder if it's going to become popular soon. Anyway, it's easy on the ears and very well put together. I've heard comparisons to Sam Cooke.</p>
+<p>The Chapman Family - No More Tears (<a href="http://www.youtube.com/watch?v=9ISud-0Ynf4">youtube</a>)</p>
+<p>Quick listen.</p>
+<p>Errors - Have Some Faith In Magic (<a href="http://open.spotify.com/user/colinramsay/playlist/6hb9TpJRjhmwccwtZVR3fz">spotify link</a>)</p>
+<p>Ultimately pretty dull</p>
+<p>Noah And The Whale - The First Days Of Spring (<a href="http://open.spotify.com/album/1nMDS9TNOF49irljI2gc5p">spotify link</a>)</p>
+<p>I can take or leave this band but this album is very stately and beautiful at times.</p>
+<p>Field Music - Plumb</p>
+<p>First listen...</p>
+<p>Willis Earl Beal - Acousmatic Sorcery (<a href="http://open.spotify.com/user/colinramsay/playlist/2brvvOBEAqyci8xuAe0gYj">spotify link</a>)</p>
+<p>This is "raw", which means that music critics will probably love it. I'm undecided as to whether it's actually any good but at least it's different.</p>

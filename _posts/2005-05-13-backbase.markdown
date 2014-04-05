@@ -1,0 +1,20 @@
+---
+layout: post
+status: publish
+published: true
+title: Backbase
+author: admin
+author_login: admin
+author_email: colinramsay@gmail.com
+wordpress_id: 190
+wordpress_url: http://www.colinramsay.co.uk/?p=190
+date: !binary |-
+  MjAwNS0wNS0xMyAyMjoxMDoxMiArMDEwMA==
+date_gmt: !binary |-
+  MjAwNS0wNS0xMyAyMjoxMDoxMiArMDEwMA==
+categories:
+- Web
+tags: []
+comments: []
+---
+<p>Javascript is gonna be the hero of 2005. <a href="http://www.backbase.com/">Backbase</a> have some great demos - <a href="http://projects.backbase.com/RUI/portal.html">check this out</a>.</p>

@@ -1,0 +1,21 @@
+---
+layout: post
+status: publish
+published: true
+title: DuckUnit
+author: admin
+author_login: admin
+author_email: colinramsay@gmail.com
+wordpress_id: 301
+wordpress_url: http://www.colinramsay.co.uk/?p=301
+date: !binary |-
+  MjAwNi0wNS0wOCAxOTo1Njo1MyArMDEwMA==
+date_gmt: !binary |-
+  MjAwNi0wNS0wOCAxOTo1Njo1MyArMDEwMA==
+categories:
+- .NET
+tags: []
+comments: []
+---
+<p>Monorail is ace, but what it really needs is an easy way of supplying test data to unit tests. <a href="http://www.dotnetjunkies.com/WebLog/anoras/archive/2005/12/07/134195.aspx">DuckUnit</a> is an interesting little mention by Anders... <a href="http://weblogs.asp.net/nunitaddin/">Jamie Cansdale</a> of NUnitAddin is working on something which will allow us to delivery data to test classes from XML files. </p>
+<p>I hope we hear more of this in the near future.</p>

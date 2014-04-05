@@ -1,0 +1,20 @@
+---
+layout: post
+status: publish
+published: true
+title: Ooh
+author: admin
+author_login: admin
+author_email: colinramsay@gmail.com
+wordpress_id: 42
+wordpress_url: http://www.colinramsay.co.uk/?p=42
+date: !binary |-
+  MjAwNC0wMi0yOSAxOTozNzoyMSArMDAwMA==
+date_gmt: !binary |-
+  MjAwNC0wMi0yOSAxOTozNzoyMSArMDAwMA==
+categories:
+- Music
+tags: []
+comments: []
+---
+<p>Passion, and indeed life, is nothing without a little objectivity. That's a note to myself as well as others.</p>

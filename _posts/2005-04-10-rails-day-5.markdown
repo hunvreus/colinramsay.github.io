@@ -1,0 +1,30 @@
+---
+layout: post
+status: publish
+published: true
+title: Rails - Day 5
+author: admin
+author_login: admin
+author_email: colinramsay@gmail.com
+wordpress_id: 146
+wordpress_url: http://www.colinramsay.co.uk/?p=146
+date: !binary |-
+  MjAwNS0wNC0xMCAwMDowNzo1MCArMDEwMA==
+date_gmt: !binary |-
+  MjAwNS0wNC0xMCAwMDowNzo1MCArMDEwMA==
+categories:
+- Ruby on Rails
+tags: []
+comments:
+- id: 9
+  author: Adam
+  author_email: spam_me_not@spam.com
+  author_url: ''
+  date: !binary |-
+    MjAwNS0wNC0xMCAxOTo1ODoyOSArMDEwMA==
+  date_gmt: !binary |-
+    MjAwNS0wNC0xMCAxOTo1ODoyOSArMDEwMA==
+  content: ! "Hmm.. could you not override the Model and set the category_id to a
+    default value (like 0) \n"
+---
+<p>If nothing else, Ruby on Rails has a great acronym. "ROR"!! Day five, aka the day where not much happened, taught me that the Rails documentation is excellent in places, spotty in others. Read on for a tale of love, hate, death and betrayal. Or maybe not; <a href="http://colinramsay.co.uk/static/ror/Day%205.html" title="Ruby on Rails - Day 5">Here's some stuff about web programming</a>.</p>

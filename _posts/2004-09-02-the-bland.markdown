@@ -1,0 +1,35 @@
+---
+layout: post
+status: publish
+published: true
+title: The Bland
+author: admin
+author_login: admin
+author_email: colinramsay@gmail.com
+wordpress_id: 105
+wordpress_url: http://www.colinramsay.co.uk/?p=105
+date: !binary |-
+  MjAwNC0wOS0wMiAwMDo1NDowNyArMDEwMA==
+date_gmt: !binary |-
+  MjAwNC0wOS0wMiAwMDo1NDowNyArMDEwMA==
+categories:
+- Music
+tags: []
+comments:
+- id: 6
+  author: Tramp
+  author_email: sherbetgirl_811@hotmail.com
+  author_url: ''
+  date: !binary |-
+    MjAwNC0wOS0wMiAwMDo1NjoyMiArMDEwMA==
+  date_gmt: !binary |-
+    MjAwNC0wOS0wMiAwMDo1NjoyMiArMDEwMA==
+  content: ! 'They aren''t The Shins. The Shins fucking ROCK. yes yes yes... oh yes.
+
+
+    oh and I got soul but I''m not a soldier. x
+
+'
+---
+<p>The Killers are really boring me now. I quite like Mr Brighteyes, and that Indie Rock n Roll one... but their new single (UK, All These Things That I Have Done) is really dull until the backing vocals kick in. For about 15 seconds it's really good and then everything else kicks in and it's shit again. They drown the cool.</p>
+<p>Still, on the scale of things they aren't too bad. They aren't The Shins, so that counts against them.</p>

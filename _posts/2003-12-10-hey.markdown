@@ -1,0 +1,23 @@
+---
+layout: post
+status: publish
+published: true
+title: Hey.
+author: admin
+author_login: admin
+author_email: colinramsay@gmail.com
+wordpress_id: 11
+wordpress_url: http://www.colinramsay.co.uk/?p=11
+date: !binary |-
+  MjAwMy0xMi0xMCAwMDo0NjoxNCArMDAwMA==
+date_gmt: !binary |-
+  MjAwMy0xMi0xMCAwMDo0NjoxNCArMDAwMA==
+categories:
+- Personal
+tags: []
+comments: []
+---
+<p>Still alive, barely. Been sick over the weekend and I'm concentrating on getting stuff done. Multimedia Project Management is not a friend of mine, I can tell thee.</p>
+<p>Things of interest? Firebird is getting a new download manager and add bookmark dialogue - probably the only interesting things to happen in it's development for a while.</p>
+<p>Embrace play Leeds Cockpit on the 19th, 20th and 21st of December. Long awaited gigs, 200 tickets a night and I've got one. Oh yeah.</p>
+<p>Night night.</p>

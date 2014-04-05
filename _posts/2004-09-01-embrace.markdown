@@ -1,0 +1,23 @@
+---
+layout: post
+status: publish
+published: true
+title: Embrace
+author: admin
+author_login: admin
+author_email: colinramsay@gmail.com
+wordpress_id: 102
+wordpress_url: http://www.colinramsay.co.uk/?p=102
+date: !binary |-
+  MjAwNC0wOS0wMSAwMTozMjozMSArMDEwMA==
+date_gmt: !binary |-
+  MjAwNC0wOS0wMSAwMTozMjozMSArMDEwMA==
+categories:
+- Music
+tags: []
+comments: []
+---
+<p>Danny Mc was on XFM tonight, talking through their new album, Out Of Nothing. You can tell he's very very excited about what's going on; Gravity is number five in the midweeks, and I'm going to turn in the face of Clur's predictions and saw that it will stay there.</p>
+<p>This is their time.</p>
+<p>I'm also hearing very good things about the gigs they've been playing, and I'll probably do a big feature on my trip to London on Friday, when they play Shepherd's Bush. I'm looking forward to Izzy coming back and us getting the new H&L interviews section online, thanks to the material Clur has sent us we're going to have a wealth of information.</p>
+<p>Good times. Over 200,000 hits to the site in the past month. I have no idea what's going to happen if the new album goes all huge...</p>

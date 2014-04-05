@@ -1,0 +1,20 @@
+---
+layout: post
+status: publish
+published: true
+title: PHP & Mail
+author: admin
+author_login: admin
+author_email: colinramsay@gmail.com
+wordpress_id: 6
+wordpress_url: http://www.colinramsay.co.uk/?p=6
+date: !binary |-
+  MjAwMy0xMS0xNyAyMjowNToxNCArMDAwMA==
+date_gmt: !binary |-
+  MjAwMy0xMS0xNyAyMjowNToxNCArMDAwMA==
+categories:
+- Site Stuff
+tags: []
+comments: []
+---
+<p>Mmm, so PHP works on the server, and I've installed Postfix so that it's now a web and mail server. This is to allow me to set up a better spam filtering - I get loads from my website addresses. Anyway, things are shaping up and normal service will resume soon!</p>

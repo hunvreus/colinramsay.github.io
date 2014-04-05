@@ -1,0 +1,21 @@
+---
+layout: post
+status: publish
+published: true
+title: CssQuery
+author: admin
+author_login: admin
+author_email: colinramsay@gmail.com
+wordpress_id: 260
+wordpress_url: http://www.colinramsay.co.uk/?p=260
+date: !binary |-
+  MjAwNS0wOS0xOSAyMDoxOToyNSArMDEwMA==
+date_gmt: !binary |-
+  MjAwNS0wOS0xOSAyMDoxOToyNSArMDEwMA==
+categories:
+- CSS
+tags: []
+comments: []
+---
+<p>I've seen a couple of these scripts around (notably Simon WIllison's version) but knowing the quality of work Dean Edwards has produced, I'll give this a shot. It's a <a href="http://dean.edwards.name/my/cssQuery/">javascript function which lets you select elements using CSS selectors</a>. It'll return a javascript array of matching elements. </p>
+<p>I've been using this technique lately to get elements which don't have a known ID until they've been processed by server side code.</p>

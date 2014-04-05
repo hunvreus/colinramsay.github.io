@@ -1,0 +1,24 @@
+---
+layout: post
+status: publish
+published: true
+title: Dear me
+author: admin
+author_login: admin
+author_email: colinramsay@gmail.com
+wordpress_id: 243
+wordpress_url: http://www.colinramsay.co.uk/?p=243
+date: !binary |-
+  MjAwNS0wNi0zMCAyMTozNzoxMCArMDEwMA==
+date_gmt: !binary |-
+  MjAwNS0wNi0zMCAyMTozNzoxMCArMDEwMA==
+categories:
+- Uncategorized
+tags: []
+comments: []
+---
+<p><a href="http://www.flickr.com/photos/41193446@N00/22675752/" title="photo sharing"><br />
+<img src="http://photos19.flickr.com/22675752_a796aaebf6_m.jpg" alt="Dear me" /><br />
+</a></p>
+<p><strong><a href="http://www.flickr.com/photos/41193446@N00/22675752/">Dear me</a></strong></p>
+<p>Dry</p>

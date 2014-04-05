@@ -1,0 +1,22 @@
+---
+layout: post
+status: publish
+published: true
+title: Music Diary 2012 Day 1
+author: Colin Ramsay
+author_login: colinramsay
+author_email: colinramsay@gmail.com
+author_url: http://colinramsay.co.uk
+wordpress_id: 759
+wordpress_url: http://colinramsay.co.uk/?p=759
+date: !binary |-
+  MjAxMi0wNS0wNyAyMzoyNDo0NCArMDEwMA==
+date_gmt: !binary |-
+  MjAxMi0wNS0wNyAyMjoyNDo0NCArMDEwMA==
+categories:
+- Music Diary 2012
+tags: []
+comments: []
+---
+<p><a href="http://sickmouthy.com/music-diary-2012/">Read more about the Music Diary on Sick Mouthy's blog</a>.</p>
+<p>As I was out of the house most of the day, there wasn't much listening to be had. We went to lovely Mevagissey, and on the way listening to Rooms Filled With Light by <strong>Fanfarlo</strong>. Apparently this band has some Swedish members, and you can tell. Other than that there are some lovely catchy songs on this album. A quick blast of the <strong>new Shins album</strong> (first two tracks) and <strong>Origins by Tennis</strong> on the way back was pretty much the limit today.</p>

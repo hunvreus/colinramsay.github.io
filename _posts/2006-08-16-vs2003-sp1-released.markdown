@@ -1,0 +1,20 @@
+---
+layout: post
+status: publish
+published: true
+title: VS2003 SP1 Released
+author: admin
+author_login: admin
+author_email: colinramsay@gmail.com
+wordpress_id: 330
+wordpress_url: http://www.colinramsay.co.uk/?p=330
+date: !binary |-
+  MjAwNi0wOC0xNiAxNDowMzowMyArMDEwMA==
+date_gmt: !binary |-
+  MjAwNi0wOC0xNiAxNDowMzowMyArMDEwMA==
+categories:
+- .NET
+tags: []
+comments: []
+---
+<p><a title="Rob Caron : Visual Studio .NET 2003 SP1 Available" href="http://blogs.msdn.com/robcaron/archive/2006/08/16/702177.aspx">Rob Caron : Visual Studio .NET 2003 SP1 Available</a> - about time. I can't get the list of changes yet (none of the links work)...</p>

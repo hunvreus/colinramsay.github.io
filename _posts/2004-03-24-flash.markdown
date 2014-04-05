@@ -1,0 +1,21 @@
+---
+layout: post
+status: publish
+published: true
+title: Flash
+author: admin
+author_login: admin
+author_email: colinramsay@gmail.com
+wordpress_id: 53
+wordpress_url: http://www.colinramsay.co.uk/?p=53
+date: !binary |-
+  MjAwNC0wMy0yNCAwMDoxODoyNyArMDAwMA==
+date_gmt: !binary |-
+  MjAwNC0wMy0yNCAwMDoxODoyNyArMDAwMA==
+categories:
+- Web
+tags: []
+comments: []
+---
+<p>I know that a lot of people slag Flash off, but there are some things that it can do for the web that are simply impractical in any other format. For example, the sort of collaberative thing I'm doing at the moment could only be done using a Java applet - the drag and drop graphical interface rules out a database solution. So before you slate it in future, forget all those horrible interfaces and let your imagination wander. Graphics, networking, a very large installed userbase.... mmmm.</p>
+<p><a href="http://colinramsay.ath.cx:85/groundswell/flash/Media%20Project/Project%20Flash%20App/timeline.swf">Here's the Flash app</a>. It won't do anything, because the socket server isn't running. Use that imagination I was talking about. :)</p>

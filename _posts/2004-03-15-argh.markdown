@@ -1,0 +1,21 @@
+---
+layout: post
+status: publish
+published: true
+title: Argh!
+author: admin
+author_login: admin
+author_email: colinramsay@gmail.com
+wordpress_id: 49
+wordpress_url: http://www.colinramsay.co.uk/?p=49
+date: !binary |-
+  MjAwNC0wMy0xNSAyMTozNjozOSArMDAwMA==
+date_gmt: !binary |-
+  MjAwNC0wMy0xNSAyMTozNjozOSArMDAwMA==
+categories:
+- Music
+tags: []
+comments: []
+---
+<p>I was suppose to be going to see <a href="http://www.thedelays.co.uk">The Delays</a> on Saturday with Zara and Lairdy but there are rumours that the band may have cancelled both that gig and a date in Sunderland because.... wait for it.... they are recording a CD:UK performance. If this turns out to be true, it's very sad. The fact that a record company can force a band to abandon the fans who have waited, and paid money, specifically to see them in favour of a marketing ploy - it's disgusting.</p>
+<p>It's all the worse that I wasn't even arsed about seeing the band, it was just an excuse to see Lairdos and Sherbert Girl again. Fucking "The Delays".</p>

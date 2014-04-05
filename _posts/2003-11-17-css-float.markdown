@@ -1,0 +1,20 @@
+---
+layout: post
+status: publish
+published: true
+title: CSS Float
+author: admin
+author_login: admin
+author_email: colinramsay@gmail.com
+wordpress_id: 5
+wordpress_url: http://www.colinramsay.co.uk/?p=5
+date: !binary |-
+  MjAwMy0xMS0xNyAxNTozMToxNyArMDAwMA==
+date_gmt: !binary |-
+  MjAwMy0xMS0xNyAxNTozMToxNyArMDAwMA==
+categories:
+- Web
+tags: []
+comments: []
+---
+<p><a title="http://www.positioniseverything.net/articles/float-theory.html" href="about:blank">Here's a very detailed article</a> on a very powerful CSS rule: float. A must read for those trying to switch to table-less layouts.</p>

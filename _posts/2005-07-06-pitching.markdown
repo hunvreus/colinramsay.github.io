@@ -1,0 +1,21 @@
+---
+layout: post
+status: publish
+published: true
+title: Pitching
+author: admin
+author_login: admin
+author_email: colinramsay@gmail.com
+wordpress_id: 248
+wordpress_url: http://www.colinramsay.co.uk/?p=248
+date: !binary |-
+  MjAwNS0wNy0wNiAwODoyNTowOSArMDEwMA==
+date_gmt: !binary |-
+  MjAwNS0wNy0wNiAwODoyNTowOSArMDEwMA==
+categories:
+- Personal
+tags: []
+comments: []
+---
+<p>Anil Dash tells salespeople <a href="http://feeds.feedburner.com/AnilDash?m=244">"Don't be a bad pitcher!"</a>.</p>
+<p>The "don't talk like a database" point is very relevant. I know that I can pick a pitch I'm not going to be interested in just by the introduction - if it sounds too "off the shelf" I switch off.</p>

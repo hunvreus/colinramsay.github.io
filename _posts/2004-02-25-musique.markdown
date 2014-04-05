@@ -1,0 +1,20 @@
+---
+layout: post
+status: publish
+published: true
+title: Musique
+author: admin
+author_login: admin
+author_email: colinramsay@gmail.com
+wordpress_id: 36
+wordpress_url: http://www.colinramsay.co.uk/?p=36
+date: !binary |-
+  MjAwNC0wMi0yNSAxMTowODowOCArMDAwMA==
+date_gmt: !binary |-
+  MjAwNC0wMi0yNSAxMTowODowOCArMDAwMA==
+categories:
+- Music
+tags: []
+comments: []
+---
+<p>Well http://colinramsay.ath.cx/music contains my entire collection. Don't leech or I'll ban you. The old feature I had where you could see and then stream what I was listening to recently will be back soon - I just have to try and remember how I did it.</p>

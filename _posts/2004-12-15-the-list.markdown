@@ -1,0 +1,46 @@
+---
+layout: post
+status: publish
+published: true
+title: The List
+author: admin
+author_login: admin
+author_email: colinramsay@gmail.com
+wordpress_id: 124
+wordpress_url: http://www.colinramsay.co.uk/?p=124
+date: !binary |-
+  MjAwNC0xMi0xNSAyMTowOTo1OSArMDAwMA==
+date_gmt: !binary |-
+  MjAwNC0xMi0xNSAyMTowOTo1OSArMDAwMA==
+categories:
+- Music
+tags: []
+comments: []
+---
+<p>I don't normally hold with "Best Of" lists. People will ask me what my favourite bands are and I am loathe to answer, because it's always in flux. But hey, let's review the year and let's do it in the form of a list. I'll try and make sure I put at least one cliche into each entry.</p>
+<h3>Avril Lavigne - Under My Skin</h3>
+<p>Sounds more grown up than her debut while still sounding a lot more relaxed. There are some very high highs on here - the orchestral ending to How Does It Feel springs to mind.</p>
+<h3>James Hardway - Big Casino</h3>
+<p>I know nothing about this fella, but his brand of low-fi beatladen lovin' made life good in our little office.</p>
+<h3>Junior Boys - Last Exit</h3>
+<p>Probably how the 80's would have sounded if they'd been any good and had happened in the 21st Century.</p>
+<h3>Belle and Sebastian - Dear Catastrophe Waitress</h3>
+<p>After a bit of time in the wilderness, B&S come back with some shimmering pop. It's not even that twee either! </p>
+<h3>The Shins - Chutes Too Narrow</h3>
+<p>Mine's Not A High Horse. Find me a better guitar-pop song released this year.  Token US indie entry omg</p>
+<h3>Ben and Jason - Goodbye</h3>
+<p>Bittersweet. Contains some of the most perfectly formed music I have ever heard.</p>
+<h3>Embrace - Out Of Nothing</h3>
+<p>As an album, don't think this is anything more than "good". Ashes was probably one of the best singles of the year, and Near Life stands as the most misunderstood Embrace track, and for that alone this album is high up my list. That aside, it holds a special place in my heart - the moment it got to number one was a high point of the year.</p>
+<h3>Kanye West - The College Dropout</h3>
+<p>This is completely immense. I love it. Very accessible, and All Falls Down has a fucking ace vocal, with a very sparse arrangement to compliment it. Did I mention I love this? Good call Whelan.</p>
+<h3>The Streets - A Grand Don't Come For Free</h3>
+<p>The narrative thing is quite good but it wouldn't mean jack if the tracks didn't hold it up. Empty Cans is one of my favourite tracks of the year, the closing lyrics are uplifting and only slightly cheesy. And Dry Your Eyes quietly destroys every indie band's attempts at a chart dominating ballad.</p>
+<h3>Delgados - Universal Audio</h3>
+<p>Not as good as I wanted it to be, though City Consumes Us remains one of the best things of the year - proving yet again that The Delgados have one of the best bassists in the country. The guitar explosion after the middle eight is one of the best things they've ever done.</p>
+<h3>Fennesz - Venice</h3>
+<p>This was probably my most striking record of the year (as in "what the fuck is this shit"), and the fact it has a song that sounds like interference on a radio is just a bonus.</p>
+<h3>Stars - Set Yourself On Fire</h3>
+<p>I only just got this, but it reminds me of Broken Social Scene and sounds like Mazzy Star combined with The Sundays. I think I'll like it.</p>
+<h3>Notable Mentions</h3>
+<p>For both singles and albums: Britney, McFly, The Walkmen, Delays (for Wanderlust), NERD, Stars Like Fleas, Girls Aloud (for Love Machine), Piano Magic, Hidden Cameras, Beta Band, Bjork, Ambulance Ltd, The Killers (for All These Things).</p>

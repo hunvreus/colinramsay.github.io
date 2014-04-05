@@ -1,0 +1,27 @@
+---
+layout: post
+status: publish
+published: true
+title: CSS > Past
+author: admin
+author_login: admin
+author_email: colinramsay@gmail.com
+wordpress_id: 63
+wordpress_url: http://www.colinramsay.co.uk/?p=63
+date: !binary |-
+  MjAwNC0wNC0wMSAwMDo0NDozMiArMDEwMA==
+date_gmt: !binary |-
+  MjAwNC0wNC0wMSAwMDo0NDozMiArMDEwMA==
+categories:
+- Web
+tags: []
+comments: []
+---
+<p>Setting aside all of the excellent technical and ideological reasons for using semantic CSS based designs for websites, I have noticed another reason to celebrate the proliferation of table-less sites. I see fewer and fewer people trying to work around the limitations of CSS in replicating table-based layouts. Instead they are creating innovative CSS-<em>native</em> designs. Rather than forcing their design into a columnar layout or another old-school format, they are opting for designs which fit the tools to hand.</p>
+<p>Rather than replicating print based formats, people are finally, finally, adapting to the web. And it's because of CSS.</p>
+<p>http://www.webexpresse.nl/<br />
+http://www.hicksdesign.co.uk/<br />
+http://standblog.org/blog/</p>
+<p>Even this blog, and my site:</p>
+<p>http://www.happyandlost.co.uk</p>
+<p>Keep looking, post examples to the comments. Of course, columns are a great way of layout information, and these designs incorporate them in places. But there's a lot of great ideas sneaking in. <em>Think outside the box</em> (model).</p>

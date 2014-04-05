@@ -1,0 +1,21 @@
+---
+layout: post
+status: publish
+published: true
+title: Goggle
+author: admin
+author_login: admin
+author_email: colinramsay@gmail.com
+wordpress_id: 66
+wordpress_url: http://www.colinramsay.co.uk/?p=66
+date: !binary |-
+  MjAwNC0wNC0wNSAwODozNjo1NSArMDEwMA==
+date_gmt: !binary |-
+  MjAwNC0wNC0wNSAwODozNjo1NSArMDEwMA==
+categories:
+- Web
+tags: []
+comments: []
+---
+<p><a href="http://blog.topix.net/archives/000016.html">Rick Skrenta tells us all</a> about the sheer size and complexity, and more interestingly the talent, that's gone into creating their technology.</p>
+<p>Google has 100,000 servers. :|</p>

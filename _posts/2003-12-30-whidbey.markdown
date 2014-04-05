@@ -1,0 +1,20 @@
+---
+layout: post
+status: publish
+published: true
+title: Whidbey
+author: admin
+author_login: admin
+author_email: colinramsay@gmail.com
+wordpress_id: 15
+wordpress_url: http://www.colinramsay.co.uk/?p=15
+date: !binary |-
+  MjAwMy0xMi0zMCAyMToxNTo1NyArMDAwMA==
+date_gmt: !binary |-
+  MjAwMy0xMi0zMCAyMToxNTo1NyArMDAwMA==
+categories:
+- .NET
+tags: []
+comments: []
+---
+<p>Woooo! The next version of .NET is going to produce XHTML 1.1 valid code! This is an extremely good piece of news. And Merry Christmas everyone!</p>

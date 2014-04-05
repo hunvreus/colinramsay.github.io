@@ -1,0 +1,24 @@
+---
+layout: post
+status: publish
+published: true
+title: Gravity
+author: admin
+author_login: admin
+author_email: colinramsay@gmail.com
+wordpress_id: 98
+wordpress_url: http://www.colinramsay.co.uk/?p=98
+date: !binary |-
+  MjAwNC0wNy0xMCAwMDoyMDowNiArMDEwMA==
+date_gmt: !binary |-
+  MjAwNC0wNy0xMCAwMDoyMDowNiArMDEwMA==
+categories:
+- Music
+tags: []
+comments: []
+---
+<p>Embrace are back. The song is Gravity, written by Chris Martin. While the core of it remains the same, I think Embrace have infused it with some badly needed spirit. The sort of strange draw which In My Place had is present - a fairly ordinary song lifted by a genius hook. In that case it was the guitar riff, in this case it's the vocal.</p>
+<p>The guitar in Gravity is very strange. At first I mainly noticed the end, where there's an extraodinary chiming, almost searing riff which almost overrides the vocals. Further listens reveal more layers - the production on this track is really excellent, which bodes very well for the album.</p>
+<p>Yes, it's a grower. I'm not 100% confident in Independiente's ability to give Embrace the attention they deserve, but if they manage to fuck it up with this sort of a chance then they might as well give up now. Handing a record company a band of this calibre who can manage to rope a huge name into giving them a song like this.... chance of a lifetime. Can they make the most of it?</p>
+<p>The key is going to be the transition between "Embrace with a song written by Chris Martin" to "Embrace with their new single", without needing that initial endorsement to perpetuate their success. </p>
+<p>Gravity is a necessary evil, but it stands alone with a lot of dignity. I hope that it gives Embrace their break.</p>

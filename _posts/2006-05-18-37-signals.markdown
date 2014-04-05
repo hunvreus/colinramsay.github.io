@@ -1,0 +1,20 @@
+---
+layout: post
+status: publish
+published: true
+title: 37 Signals
+author: admin
+author_login: admin
+author_email: colinramsay@gmail.com
+wordpress_id: 313
+wordpress_url: http://www.colinramsay.co.uk/?p=313
+date: !binary |-
+  MjAwNi0wNS0xOCAyMjowNTowNCArMDEwMA==
+date_gmt: !binary |-
+  MjAwNi0wNS0xOCAyMjowNTowNCArMDEwMA==
+categories:
+- Uncategorized
+tags: []
+comments: []
+---
+<p>The single most important thing which 37 Signals are doing is showing that <i>marketing is nonsense</i>. Marketing is easy. Advertising is easy. Make a good product and word of mouth will support your sales.. and a good product is not necessarily something that everyone's heard of. Remember that there are likely to be people doing the same stuff as your, but there is <i>plenty of room</i>. Marketing execs are bad. Advertising is bad.</p>

@@ -1,0 +1,21 @@
+---
+layout: post
+status: publish
+published: true
+title: Back.
+author: admin
+author_login: admin
+author_email: colinramsay@gmail.com
+wordpress_id: 89
+wordpress_url: http://www.colinramsay.co.uk/?p=89
+date: !binary |-
+  MjAwNC0wNi0xNSAwMDoyODoxMCArMDEwMA==
+date_gmt: !binary |-
+  MjAwNC0wNi0xNSAwMDoyODoxMCArMDEwMA==
+categories:
+- Site Stuff
+tags: []
+comments: []
+---
+<p>Ok, so I discovered why the server kept going down. The power supply was knackered. It finally died one fateful night about two weeks ago, and I assumed it was the motherboard (CPU fan spinning but no beeping). In fact it was some aspect of the PSU, so I've just swapped it out and all is well.</p>
+<p>Time for some action round here I think.</p>

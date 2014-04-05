@@ -1,0 +1,23 @@
+---
+layout: post
+status: publish
+published: true
+title: MOP
+author: admin
+author_login: admin
+author_email: colinramsay@gmail.com
+wordpress_id: 9
+wordpress_url: http://www.colinramsay.co.uk/?p=9
+date: !binary |-
+  MjAwMy0xMS0zMCAwMTo1MTowMCArMDAwMA==
+date_gmt: !binary |-
+  MjAwMy0xMS0zMCAwMTo1MTowMCArMDAwMA==
+categories:
+- Mozilla
+tags: []
+comments: []
+---
+<p>MOP - Cold As Ice; just fun.</p>
+<p>Anyways, nothing's happening really. I've wrapped up three websites at work this week - it's quite odd saying that since I usually finish one site a year or so :)</p>
+<p>The Uni project is going to be called Groundswell and will be coming soon. It's gonna make me and Izzo millionaires.</p>
+<p>Finally? When you depart from me sorrow abides, and happiness takes his leave.</p>

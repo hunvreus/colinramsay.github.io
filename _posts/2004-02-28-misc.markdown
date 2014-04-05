@@ -1,0 +1,20 @@
+---
+layout: post
+status: publish
+published: true
+title: Misc.
+author: admin
+author_login: admin
+author_email: colinramsay@gmail.com
+wordpress_id: 39
+wordpress_url: http://www.colinramsay.co.uk/?p=39
+date: !binary |-
+  MjAwNC0wMi0yOCAwMTozMzowMSArMDAwMA==
+date_gmt: !binary |-
+  MjAwNC0wMi0yOCAwMTozMzowMSArMDAwMA==
+categories:
+- Music
+tags: []
+comments: []
+---
+<p>www.stylusmagazine.com has a good interview with Martin Carr. The guy has his head screwed on - he knows that the record companies are on their way out. What else... oh, I downloaded the new Ash single from their site. I paid ?1.50 via my phone (cool method) and got a PIN code. Unfortunately the .WMA file is DRM infected. I have no objection for paying for music, I could have easily got it via P2P programs. But DRM is just bad - I paid for the track, I should be able to do what I want with it....</p>

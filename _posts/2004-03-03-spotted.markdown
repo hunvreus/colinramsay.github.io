@@ -1,0 +1,20 @@
+---
+layout: post
+status: publish
+published: true
+title: Spotted
+author: admin
+author_login: admin
+author_email: colinramsay@gmail.com
+wordpress_id: 44
+wordpress_url: http://www.colinramsay.co.uk/?p=44
+date: !binary |-
+  MjAwNC0wMy0wMyAyMzoxNDoyNSArMDAwMA==
+date_gmt: !binary |-
+  MjAwNC0wMy0wMyAyMzoxNDoyNSArMDAwMA==
+categories:
+- Music
+tags: []
+comments: []
+---
+<p><a href="http://www.manitoba.fm/">Manitoba</a> on a mobile phone advert. One of those.... "hang on. That can't be right. That's Manitoba!" moments, great stuff! The track is Crayon from their Up In Flames album, and you can grab it from my music directory.</p>

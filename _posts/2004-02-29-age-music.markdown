@@ -1,0 +1,26 @@
+---
+layout: post
+status: publish
+published: true
+title: Age & Music
+author: admin
+author_login: admin
+author_email: colinramsay@gmail.com
+wordpress_id: 40
+wordpress_url: http://www.colinramsay.co.uk/?p=40
+date: !binary |-
+  MjAwNC0wMi0yOSAwMDo0MDozOSArMDAwMA==
+date_gmt: !binary |-
+  MjAwNC0wMi0yOSAwMDo0MDozOSArMDAwMA==
+categories:
+- Music
+tags: []
+comments: []
+---
+<p>AOR - Adult Oriented Rock. Just saying that phrase brings to mind images of mullets and power ballads. However, it does lead nicely into a point I'd like to try and make. By virtue of it's name AOR is targetted at a specific age range. It's easy to conclude that some exec feels that this specific age range should be associated with a particular type of music. Most likely a different type of music than they listened to 10 years ago.</p>
+<p>The very existance of AOR is a reflection of a simple fact - your music taste will change over time.</p>
+<p>Why is this interesting? Well, there are a particular group of bands that I like to call Evening Session bands. I have no idea whether Radio One's Evening Session is still running, but about six years ago or so, it was the place that I discovered most of my new music. At that time I lapped up the bands that were on there cos they were new, and different. I just grabbed all I could.</p>
+<p>As I say, that was six years ago. I've had six years to listen to that sort of band, and I'm bored of it. Is it wrong of me to get fed up of the same indie guitar music that I've heard, year upon year? I don't think it is.</p>
+<p>So - the point. People younger than me are still listening to their first chunks of Evening Session music. I've moved on, but I think that back then, six years ago, I probably did listen to the Starsailor, the Haven, the Athlete, of the time. That doesn't make them any less shit to me now, but back then I liked them. But now, looking back with years of the same stuff on my mind, I don't have the same enthusiasm.</p>
+<p>I look around now and see a wealth of stuff to listen to, all of which is varied. I don't mostly listen to Evening Session music. And if I slate today's version of it - have patience - I'm old in your terms. I've got extra years of this sort of stuff building up in my head and I've had enough.</p>
+<p>AOR - for middle age adults. Evening Session music - for sixth formers. Yeah, these are boxes, and it's wrong to confine people to boxes. And yes this is patronising. But it makes sense, and it goes a long way to helping people understand why people might like what they do.</p>

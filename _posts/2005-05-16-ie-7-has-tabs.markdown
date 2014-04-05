@@ -1,0 +1,20 @@
+---
+layout: post
+status: publish
+published: true
+title: IE 7 Has Tabs
+author: admin
+author_login: admin
+author_email: colinramsay@gmail.com
+wordpress_id: 197
+wordpress_url: http://www.colinramsay.co.uk/?p=197
+date: !binary |-
+  MjAwNS0wNS0xNiAwODo1MDozMSArMDEwMA==
+date_gmt: !binary |-
+  MjAwNS0wNS0xNiAwODo1MDozMSArMDEwMA==
+categories:
+- Microsoft
+tags: []
+comments: []
+---
+<p>No surprise here really, but we finally get confirmation that <a href="http://blogs.msdn.com/ie/archive/2005/05/16/417732.aspx">IE 7 will have tabbed browsing</a>. I'd like to see MS come up with a <em>new</em> implementation to try and show they're not just playing catch-up.</p>

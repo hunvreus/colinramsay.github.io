@@ -1,0 +1,21 @@
+---
+layout: post
+status: publish
+published: true
+title: SEO
+author: admin
+author_login: admin
+author_email: colinramsay@gmail.com
+wordpress_id: 22
+wordpress_url: http://www.colinramsay.co.uk/?p=22
+date: !binary |-
+  MjAwNC0wMS0yNiAyMToxNDozNSArMDAwMA==
+date_gmt: !binary |-
+  MjAwNC0wMS0yNiAyMToxNDozNSArMDAwMA==
+categories:
+- Web
+tags: []
+comments: []
+---
+<p>Check out the comments for more</p>
+<p><a href="http://www.9rules.com/whitespace/web_mastering/search_engine_optimization.php">9rules</a></p>

@@ -1,0 +1,19 @@
+---
+layout: page
+status: publish
+published: true
+title: About
+author: admin
+author_login: admin
+author_email: colinramsay@gmail.com
+wordpress_id: 2
+wordpress_url: http://colinramsay.co.uk/about/
+date: !binary |-
+  MjAwNy0wMS0yNyAyMzoxMjo0NiArMDAwMA==
+date_gmt: !binary |-
+  MjAwNy0wMS0yNyAyMzoxMjo0NiArMDAwMA==
+categories: []
+tags: []
+comments: []
+---
+

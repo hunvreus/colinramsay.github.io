@@ -1,0 +1,25 @@
+---
+layout: post
+status: publish
+published: true
+title: Fire & Wine
+author: Colin Ramsay
+author_login: colinramsay
+author_email: colinramsay@gmail.com
+author_url: http://colinramsay.co.uk
+wordpress_id: 347
+wordpress_url: http://www.colinramsay.co.uk/2007/03/15/fire-wine/
+date: !binary |-
+  MjAwNy0wMy0xNSAxOToyMzo1OSArMDAwMA==
+date_gmt: !binary |-
+  MjAwNy0wMy0xNSAxOToyMzo1OSArMDAwMA==
+categories:
+- Music
+tags: []
+comments: []
+---
+<p>I subconsciously turned this blog into a very dry and professional one; let's change that.</p>
+<p>At Christmas I got hold of an old Denon CD player and amp, and for under Â£100 I had a pretty decent hifi setup. That sort of tech can't really get old, so it didn't matter that it was ten years since it had been sold as new. I hooked it all up to a pair of <a href="http://www.alessandro-products.com/headphones.html" title="Alessandro">Music Series One headphones from Alessandro</a>, on recommendation from <a href="http://sickmouthy.blogspot.com/">Nick</a>, and oh! revelation.</p>
+<p>For the first time in a couple of years I have started buying CD's again. For someone who claims to be "into" music, it's not really good enough to listen to MP3 rips all the time - something's got to give when you're listening to a compressed version of a track through a computer on Â£15 headphones designed for Counterstrike.</p>
+<p>I picked up Amy Winehouse's Frank for a fiver, based on the awesomeness of Back To Black. For those who haven't heard it, Back To Black is retro-fine and does a whole lot more to highlight Amy's voice than Frank - an album that is more R&amp;B than retro.</p>
+<p>My housemate Lord Laird bought Neon Bible by Arcade Fire, a band who I think were overrated based on their first album. However, MTV2 used to show a live performance of them playing some of the decent tracks from Funeral and that was 10xawesome, and for that reason I was quite looking forward to this new one, and I've not been disappointed. There's a lot less filler on this than on Funeral, and the songs are tighter. The singer's voice isn't as willfully shit, and their "epic" tendencies have ballooned. This is a great album.</p>

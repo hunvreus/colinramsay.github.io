@@ -1,0 +1,20 @@
+---
+layout: post
+status: publish
+published: true
+title: Rails 0.12.0
+author: admin
+author_login: admin
+author_email: colinramsay@gmail.com
+wordpress_id: 156
+wordpress_url: http://www.colinramsay.co.uk/?p=156
+date: !binary |-
+  MjAwNS0wNC0xOSAwOTo1ODoyMSArMDEwMA==
+date_gmt: !binary |-
+  MjAwNS0wNC0xOSAwOTo1ODoyMSArMDEwMA==
+categories:
+- Ruby on Rails
+tags: []
+comments: []
+---
+<p><a href="http://feeds.feedburner.com/RidingRails?m=59">The Rails revolution continues</a>, with the new Ajax effects becoming available in this release. Also looking very interesting is the new Base.find API and better association support. I have a new Rails project in the offing (the dairy one is finished and I'll be wrapping that up for you this week), so I'm going to try and use some of the more advanced features of the framework in that.</p>

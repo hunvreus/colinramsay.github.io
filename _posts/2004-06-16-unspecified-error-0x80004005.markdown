@@ -1,0 +1,26 @@
+---
+layout: post
+status: publish
+published: true
+title: Unspecified Error 0x80004005
+author: admin
+author_login: admin
+author_email: colinramsay@gmail.com
+wordpress_id: 90
+wordpress_url: http://www.colinramsay.co.uk/?p=90
+date: !binary |-
+  MjAwNC0wNi0xNiAyMjoyMzozMCArMDEwMA==
+date_gmt: !binary |-
+  MjAwNC0wNi0xNiAyMjoyMzozMCArMDEwMA==
+categories:
+- .NET
+tags: []
+comments: []
+---
+<p>I've experienced this Jet error on my <a href="http://www.happyandlost.co.uk">Embrace fansite, Happy and Lost</a>, as well as on our development server at work.</p>
+<p>At work I was creating a new database object every time I needed to do a DB call - not clever. So I added a check which said:</p>
+<pre>
+if (db == null)
+    db.Create();
+</pre>
+<p>Or code to that effect, anyway. Worked like a charm but I don't know why. It must be something to do with concurrent connections, but I never saw any decent solution online so this may help someone.</p>

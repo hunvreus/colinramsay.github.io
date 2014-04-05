@@ -1,0 +1,23 @@
+---
+layout: post
+status: publish
+published: true
+title: Services
+author: admin
+author_login: admin
+author_email: colinramsay@gmail.com
+wordpress_id: 134
+wordpress_url: http://www.colinramsay.co.uk/?p=134
+date: !binary |-
+  MjAwNS0wNC0wMyAyMTo1MDoyNSArMDEwMA==
+date_gmt: !binary |-
+  MjAwNS0wNC0wMyAyMTo1MDoyNSArMDEwMA==
+categories:
+- .NET
+tags: []
+comments: []
+---
+<p>I wrote a chatroom using C# sockets and Flash, with XML messages being used to transport data. Now it had one main issue - each XML message was about 1.5k. With one of these being sent every second from every connected client, my home broadband connection (upload speed of 15k/s) was quickly saturated.</p>
+<p>Ok, fine. I will put it on one of the Internetware servers - they have compression on IIS and a ton of bandwidth. But the problem is that this chatroom was a console app, and therefore would only run when someone was logged onto the server. </p>
+<p>What I needed was to turn it into a Windows Service, like IIS or the Background Transfer service used in Windows Update. Services can run in the background under a certain user, but that user doesn't necessarily have to be logged in...</p>
+<p>I didn't do it, because I didn't know how at the time. But now <a href="http://weblogs.asp.net/CumpsD/archive/2005/04/03/396930.aspx">David Cumps has shown me the way</a>. Maybe I'll give it another bash...</p>

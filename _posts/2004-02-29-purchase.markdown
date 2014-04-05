@@ -1,0 +1,36 @@
+---
+layout: post
+status: publish
+published: true
+title: Purchase
+author: admin
+author_login: admin
+author_email: colinramsay@gmail.com
+wordpress_id: 43
+wordpress_url: http://www.colinramsay.co.uk/?p=43
+date: !binary |-
+  MjAwNC0wMi0yOSAyMzoyMDoyMiArMDAwMA==
+date_gmt: !binary |-
+  MjAwNC0wMi0yOSAyMzoyMDoyMiArMDAwMA==
+categories:
+- Personal
+tags: []
+comments:
+- id: 2
+  author: Lairdy
+  author_email: graeme@lairdy.co.uk
+  author_url: ''
+  date: !binary |-
+    MjAwNC0wMy0wMiAyMjo0OTozMiArMDAwMA==
+  date_gmt: !binary |-
+    MjAwNC0wMy0wMiAyMjo0OTozMiArMDAwMA==
+  content: ! 'Get the whiteboard man! My housemate had one at uni and they''re great
+    for stuff like that. ?35 is dead pricey though. You could make one for a few quid,
+    just need a smooth surface and that sticky stuff they used at the comp to convert
+    the blackboards into whiteboards.
+
+'
+---
+<p>I think I need a white board. A big one. The notion of sketching out a project diagram to collect my thoughts and being able to easily change it is good. The way I'd do this at the moment is by typing out my thoughts into Notepad, or occasionally making a Visio diagram. Neither are really flexible enough.</p>
+<p>?35 though.... I might take a trip out to the Metro Center. </p>
+<p>See, I'm having difficulty visualising exactly what I want my projects to do. Or more accurately, what I've made them do. I have a tendency to hack together code without really understanding what's happening. Planning what I need and what I'm doing as it happens should help me get the idea straight in my head. That's the theory anyway...</p>

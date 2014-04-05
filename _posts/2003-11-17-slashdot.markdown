@@ -1,0 +1,21 @@
+---
+layout: post
+status: publish
+published: true
+title: Slashdot
+author: admin
+author_login: admin
+author_email: colinramsay@gmail.com
+wordpress_id: 4
+wordpress_url: http://www.colinramsay.co.uk/?p=4
+date: !binary |-
+  MjAwMy0xMS0xNyAxNToyNTowOCArMDAwMA==
+date_gmt: !binary |-
+  MjAwMy0xMS0xNyAxNToyNTowOCArMDAwMA==
+categories:
+- Mozilla
+tags: []
+comments: []
+---
+<p><a href="http://www.slashdot.org">/.</a> is running a story titled "Life After Netscape For Mozilla Developers". It's liked to story on <a href="www.mozillazine.org">Mozillazine</a>, so their servers will be knackered.</p>
+<p>I think it will be interesting to see what the Slashbots make of this diversification of the Mozilla brand - there's already been some comments on XUL, so it's worth a look.</p>

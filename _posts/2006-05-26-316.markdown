@@ -1,0 +1,20 @@
+---
+layout: post
+status: publish
+published: true
+author: admin
+author_login: admin
+author_email: colinramsay@gmail.com
+wordpress_id: 316
+wordpress_url: http://www.colinramsay.co.uk/?p=316
+date: !binary |-
+  MjAwNi0wNS0yNiAwODo1NDoyNyArMDEwMA==
+date_gmt: !binary |-
+  MjAwNi0wNS0yNiAwODo1NDoyNyArMDEwMA==
+categories:
+- Uncategorized
+tags: []
+comments: []
+---
+<p>It was already brilliant but Joe Hewitt has now excelled himself by adding a <a href="http://www.joehewitt.com/blog/firebug_04_come.php">javascript debugger to Firebug</a>. </p>
+<p>With Firebug and the Web Developer Toolbar installed, you have an incredibly powerful set of tools at your disposal.</p>

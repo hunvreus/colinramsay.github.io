@@ -1,0 +1,38 @@
+---
+layout: post
+status: publish
+published: true
+title: TickerTape v1.01
+author: Colin Ramsay
+author_login: colinramsay
+author_email: colinramsay@gmail.com
+author_url: http://colinramsay.co.uk
+wordpress_id: 360
+wordpress_url: http://colinramsay.co.uk/2007/04/24/tickertape-v101/
+date: !binary |-
+  MjAwNy0wNC0yNCAxMjo1MjoxNCArMDEwMA==
+date_gmt: !binary |-
+  MjAwNy0wNC0yNCAxMTo1MjoxNCArMDEwMA==
+categories:
+- Projects
+- Javascript
+- TickerTape
+tags: []
+comments:
+- id: 19545
+  author: Nancy Jeffers
+  author_email: njeffers@camdennational.com
+  author_url: ''
+  date: !binary |-
+    MjAwOC0wNS0wOSAxOTo1MjoyOCArMDEwMA==
+  date_gmt: !binary |-
+    MjAwOC0wNS0wOSAxODo1MjoyOCArMDEwMA==
+  content: ! "I am looking for a particular ticket tape script. Do you have a script
+    that will allow for background color change, you can stop the scrolling, and the
+    text is from a text file, not in the web coding. If I'm unavilable to update the
+    information, I want others to be able to update the information from a text file
+    that also allows you to change the background color.\r\nWas that clear, or do
+    you have questions?\r\nThank you"
+---
+<p>I've updated my Javascript TickerTape component after <a href="http://ajaxian.com/archives/tickertape-scrolling-tickers-in-javascript">Ajaxian reported</a> that the demo wasn't working for them in Firefox. This is v1.01 and contains no other changes. To download this update, hit the <a href="http://javascript-ticker-tape.googlecode.com/files/tickertape-1.0.zip">current TickerTape version</a> link. <strong>Note that if you've visited the demo before you may need to flush your cache to see this fix</strong>.</p>
+<p><strong>Update 2:</strong> The <a href="http://colinramsay.co.uk/diary/2009/01/14/javascript-tickertape-on-google-code/">TickerTape is now available on Google Code</a>. Downloads have been updated to reflect this.</p>

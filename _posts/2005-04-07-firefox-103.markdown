@@ -1,0 +1,20 @@
+---
+layout: post
+status: publish
+published: true
+title: Firefox 1.0.3
+author: admin
+author_login: admin
+author_email: colinramsay@gmail.com
+wordpress_id: 142
+wordpress_url: http://www.colinramsay.co.uk/?p=142
+date: !binary |-
+  MjAwNS0wNC0wNyAyMDo0NTowNyArMDEwMA==
+date_gmt: !binary |-
+  MjAwNS0wNC0wNyAyMDo0NTowNyArMDEwMA==
+categories:
+- Mozilla
+tags: []
+comments: []
+---
+<p>Apparently <a href="http://weblogs.mozillazine.org/asa/archives/007905.html">Firefox 1.0.3 is now testing</a> - these point releases are mostly security. However, with this one it seems like there could be a possibility of some extensions breaking. Considering that I, as well as hundreds of thousands of other Firefox users get these releases via Automatic Update, it will be a PR disaster if their much vaunted extension system starts breaking each time an update occurs...</p>

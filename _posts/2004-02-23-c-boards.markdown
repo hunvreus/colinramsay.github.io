@@ -1,0 +1,20 @@
+---
+layout: post
+status: publish
+published: true
+title: C# Boards
+author: admin
+author_login: admin
+author_email: colinramsay@gmail.com
+wordpress_id: 32
+wordpress_url: http://www.colinramsay.co.uk/?p=32
+date: !binary |-
+  MjAwNC0wMi0yMyAyMjozNToyNSArMDAwMA==
+date_gmt: !binary |-
+  MjAwNC0wMi0yMyAyMjozNToyNSArMDAwMA==
+categories:
+- .NET
+tags: []
+comments: []
+---
+<p>Been needing some help with Sockets of late <a href="http://www.csharphelp.com/board2/list.html?f=1">this board</a> and the one at www.asp.net are both really useful. Asp.net is busier but you really have to ask your question well to get noticed.</p>

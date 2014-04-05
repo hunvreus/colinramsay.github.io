@@ -1,0 +1,20 @@
+---
+layout: post
+status: publish
+published: true
+title: <3 Google
+author: admin
+author_login: admin
+author_email: colinramsay@gmail.com
+wordpress_id: 158
+wordpress_url: http://www.colinramsay.co.uk/?p=158
+date: !binary |-
+  MjAwNS0wNC0yMSAwMDowNjo1MiArMDEwMA==
+date_gmt: !binary |-
+  MjAwNS0wNC0yMSAwMDowNjo1MiArMDEwMA==
+categories:
+- Web
+tags: []
+comments: []
+---
+<p>Google is just unbelievable. When they're not making <a href="http://www.google.com">finding web stuff</a> easier, they're making <a href="http://maps.google.co.uk/">finding real life</a> stuff easier. And <a href="http://www.google.co.uk/mobile">on the move too</a>... And then when they feel they've made the <a href="http://www.gmail.com">best webmail service in the world</a>, they start to make it even more awesome by <a href="http://slashdot.org/article.pl?sid=05/04/20/148212&from=rss">integrating the cutting edge</a>. And then they go and do <a href="http://www.google.com/googleblog/2005/04/from-lost-to-found.html">something a little bit extra</a>. I love Google.</p>

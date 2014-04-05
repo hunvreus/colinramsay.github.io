@@ -1,0 +1,20 @@
+---
+layout: page
+status: publish
+published: true
+title: Diary
+author: Colin Ramsay
+author_login: colinramsay
+author_email: colinramsay@gmail.com
+author_url: http://colinramsay.co.uk
+wordpress_id: 794
+wordpress_url: http://colinramsay.co.uk/?page_id=794
+date: !binary |-
+  MjAxMy0wMS0zMCAwMDo0NjoxMSArMDAwMA==
+date_gmt: !binary |-
+  MjAxMy0wMS0yOSAyMzo0NjoxMSArMDAwMA==
+categories: []
+tags: []
+comments: []
+---
+

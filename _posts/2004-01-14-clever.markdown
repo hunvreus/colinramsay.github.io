@@ -1,0 +1,21 @@
+---
+layout: post
+status: publish
+published: true
+title: ! 'Clever:'
+author: admin
+author_login: admin
+author_email: colinramsay@gmail.com
+wordpress_id: 18
+wordpress_url: http://www.colinramsay.co.uk/?p=18
+date: !binary |-
+  MjAwNC0wMS0xNCAxOTo1NDoxMyArMDAwMA==
+date_gmt: !binary |-
+  MjAwNC0wMS0xNCAxOTo1NDoxMyArMDAwMA==
+categories:
+- Site Stuff
+tags: []
+comments: []
+---
+<p>From <a href="http://apple.slashdot.org/comments.pl?sid=92832&cid=7976040" title="Slashdot">Slashdot</a>:</p>
+<p>I run Windows XP, and almost everything I do is done via a command. Create a folder called c:\shortcuts. Copy shortcuts to your favorite apps, vbscripts, whatever to this folder and name them whatever you want. Add C:\shortcuts to your PATH env variable. Now all I do is hit Windows+R (Same as start run), type in my new command, and hit enter. What used to take many seconds of menus, right mouse clicks, and options, now takes less than 2 seconds. I want to start Microsoft Word, I type "word". If I want to start iTunes, I type "itunes". If I want to start device manager and connect to a remote machine, I type "mg computername".</p>

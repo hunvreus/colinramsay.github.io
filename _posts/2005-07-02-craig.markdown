@@ -1,0 +1,23 @@
+---
+layout: post
+status: publish
+published: true
+title: Craig
+author: admin
+author_login: admin
+author_email: colinramsay@gmail.com
+wordpress_id: 246
+wordpress_url: http://www.colinramsay.co.uk/?p=246
+date: !binary |-
+  MjAwNS0wNy0wMiAxODo0Mjo0MyArMDEwMA==
+date_gmt: !binary |-
+  MjAwNS0wNy0wMiAxODo0Mjo0MyArMDEwMA==
+categories:
+- Uncategorized
+tags: []
+comments: []
+---
+<p><a href="http://www.flickr.com/photos/41193446@N00/23076549/" title="photo sharing" class="mobilePhoto"><br />
+<img src="http://photos18.flickr.com/23076549_818389d374_m.jpg" alt="Craig" /><br />
+</a></p>
+<p><a href="http://www.flickr.com/photos/41193446@N00/23076549/">Craig</a></p>

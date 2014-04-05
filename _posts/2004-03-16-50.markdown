@@ -1,0 +1,22 @@
+---
+layout: post
+status: publish
+published: true
+title: /.
+author: admin
+author_login: admin
+author_email: colinramsay@gmail.com
+wordpress_id: 50
+wordpress_url: http://www.colinramsay.co.uk/?p=50
+date: !binary |-
+  MjAwNC0wMy0xNiAxMTo0NToxOSArMDAwMA==
+date_gmt: !binary |-
+  MjAwNC0wMy0xNiAxMTo0NToxOSArMDAwMA==
+categories:
+- Web
+tags: []
+comments: []
+---
+<p>Ha, I've just noticed that I've got "excellent" karma over at <a href="http://www.slashdot.org">Slashdot</a>. I'm not arsed about the "my karma is bigger than yours" subculture, but it does mean that everything I post will start off with a score of 2 - probably bypassing a large portion of people's score filters.</p>
+<p>That also means that I have a bigger chance of getting comments noticed and rated to 5. And that means that anything I put in my sig is going to get a traffic boost because it's got high-visibility on one of the largest tech sites on the Internet.</p>
+<p>In other words, I have a good advertising route :)</p>

@@ -1,0 +1,20 @@
+---
+layout: post
+status: publish
+published: true
+title: Cakes
+author: admin
+author_login: admin
+author_email: colinramsay@gmail.com
+wordpress_id: 14
+wordpress_url: http://www.colinramsay.co.uk/?p=14
+date: !binary |-
+  MjAwMy0xMi0xNyAyMzoxNTowNyArMDAwMA==
+date_gmt: !binary |-
+  MjAwMy0xMi0xNyAyMzoxNTowNyArMDAwMA==
+categories:
+- Personal
+tags: []
+comments: []
+---
+<p><a href="http://cake.allrecipes.com/az/nMintChcltIcing.asp" title="icing"></a>I know nothing about baking, but this <a href="http://cake.allrecipes.com/recipes/print_fullpage_scale.asp?nprid=15391&servings=8&metric=1&size=3" title="chocolate cake">chocolate cake recipe</a> is easy peasy. Mine didn't rise very well but it tastes good. I used <a href="http://cake.allrecipes.com/az/nMintChcltIcing.asp" title="icing">this icing</a> as well. The worst bit is cleaning up :(</p>

@@ -1,0 +1,33 @@
+---
+layout: post
+status: publish
+published: true
+title: Misc Tips
+author: admin
+author_login: admin
+author_email: colinramsay@gmail.com
+wordpress_id: 60
+wordpress_url: http://www.colinramsay.co.uk/?p=60
+date: !binary |-
+  MjAwNC0wMy0yOCAxNDowNDoyNCArMDEwMA==
+date_gmt: !binary |-
+  MjAwNC0wMy0yOCAxNDowNDoyNCArMDEwMA==
+categories:
+- Mozilla
+tags: []
+comments: []
+---
+<p>It's annoying when a link opens in a new window when you're used to tabs, so found this userContent.css snippet for Firefox:</p>
+<p><span class="code"><br />
+/* Change cursor for links that open in new window */ <br/><br />
+:link[target="_blank"], :visited[target="_blank"],<br/><br />
+:link[target="_new"],   :visited[target="_new"] { <br/><br />
+   cursor:  crosshair; <br/><br />
+} <br/><br />
+<br/><br />
+/* Change cursor for JavaScript links */ <br/><br />
+a[href^="javascript:"] { <br/><br />
+   cursor: move; <br/><br />
+} <br/><br />
+</span></p>
+<p>Change the cursor so you know when a new window opens and also indicates if a link is a javascript one which probably won't work if you try to open it in a tab.</p>

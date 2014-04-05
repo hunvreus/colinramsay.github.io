@@ -1,0 +1,20 @@
+---
+layout: post
+status: publish
+published: true
+title: Debunk
+author: admin
+author_login: admin
+author_email: colinramsay@gmail.com
+wordpress_id: 150
+wordpress_url: http://www.colinramsay.co.uk/?p=150
+date: !binary |-
+  MjAwNS0wNC0xMCAyMzo1MDo1NCArMDEwMA==
+date_gmt: !binary |-
+  MjAwNS0wNC0xMCAyMzo1MDo1NCArMDEwMA==
+categories:
+- Ruby on Rails
+tags: []
+comments: []
+---
+<p>A quick review of the main points people are using as negatives against Ruby on Rails and a <a href="http://defrang.com/index.php?story=837">rather rapid debunking</a> of each (<a href="http://feeds.feedburner.com/RidingRails?m=42">via</a>).</p>

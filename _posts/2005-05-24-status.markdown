@@ -1,0 +1,32 @@
+---
+layout: post
+status: publish
+published: true
+title: ! 'Status:'
+author: admin
+author_login: admin
+author_email: colinramsay@gmail.com
+wordpress_id: 206
+wordpress_url: http://www.colinramsay.co.uk/?p=206
+date: !binary |-
+  MjAwNS0wNS0yNCAxNDo1OTozMiArMDEwMA==
+date_gmt: !binary |-
+  MjAwNS0wNS0yNCAxNDo1OTozMiArMDEwMA==
+categories:
+- Personal
+tags: []
+comments:
+- id: 12
+  author: yourdaddy
+  author_email: yourdaddy@microsoft.com
+  author_url: http://msdn.microsoft.com
+  date: !binary |-
+    MjAwNS0wNS0yNiAxMToyMTo0NiArMDEwMA==
+  date_gmt: !binary |-
+    MjAwNS0wNS0yNiAxMToyMTo0NiArMDEwMA==
+  content: ! 'Too sick to come into work but not to blog or play on your mac (which
+    I have noticed has been picked up) ;0
+
+'
+---
+<p>Dying.</p>

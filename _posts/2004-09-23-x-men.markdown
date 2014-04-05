@@ -1,0 +1,21 @@
+---
+layout: post
+status: publish
+published: true
+title: X-Men
+author: admin
+author_login: admin
+author_email: colinramsay@gmail.com
+wordpress_id: 114
+wordpress_url: http://www.colinramsay.co.uk/?p=114
+date: !binary |-
+  MjAwNC0wOS0yMyAwMDoxNToyNCArMDEwMA==
+date_gmt: !binary |-
+  MjAwNC0wOS0yMyAwMDoxNToyNCArMDEwMA==
+categories:
+- Movies
+tags: []
+comments: []
+---
+<p>This is pretty old, but one of those films, like Spiderman, which I never got around to seeing. Patrick Stewart remains consistantly ace in everything he's in - so that's a bonus. Halle Berry was shit, but her part was too. There was a great moment just as she chucked Toad off the Statue of Liberty - as she moves through the doors forcing air and debris past her, that looked ace.</p>
+<p>I did get the feeling that the whole thing was a prelude to a franchise, but nonetheless 7/10 - an enjoyable romp.</p>

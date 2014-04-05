@@ -1,0 +1,23 @@
+---
+layout: post
+status: publish
+published: true
+title: Fun & Flash
+author: admin
+author_login: admin
+author_email: colinramsay@gmail.com
+wordpress_id: 7
+wordpress_url: http://www.colinramsay.co.uk/?p=7
+date: !binary |-
+  MjAwMy0xMS0xOSAxOTo1ODoxNCArMDAwMA==
+date_gmt: !binary |-
+  MjAwMy0xMS0xOSAxOTo1ODoxNCArMDAwMA==
+categories:
+- Personal
+tags: []
+comments: []
+---
+<p>I've spent the day making a Flash website design and a Flash streaming MP3 player. It's been pretty good actually, Flash is fairly powerful when you know what you're doing.</p>
+<p>I came across a problem when making the MP3 player - I wanted to make it a little more dynamic by turning it into a streaming jukebox for all the MP3s within a specified directory. Unfortunately, Flash's file and directory handling is shite, but we wanted to embed the player in a web page - this gave me access to further scripting power via ASP.</p>
+<p>The solution is to have the ASP page create a directory listing in a Flash - readable text file before the .swf even runs. Then we can use a few string functions to create an array of all the MP3s. </p>
+<p>Note to self: make use of all the tools available to you.</p>

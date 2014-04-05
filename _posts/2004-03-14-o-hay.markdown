@@ -1,0 +1,23 @@
+---
+layout: post
+status: publish
+published: true
+title: o hay
+author: admin
+author_login: admin
+author_email: colinramsay@gmail.com
+wordpress_id: 46
+wordpress_url: http://www.colinramsay.co.uk/?p=46
+date: !binary |-
+  MjAwNC0wMy0xNCAwMDo1NzoxNCArMDAwMA==
+date_gmt: !binary |-
+  MjAwNC0wMy0xNCAwMDo1NzoxNCArMDAwMA==
+categories:
+- Personal
+tags: []
+comments: []
+---
+<p>Well I'm doing an essay on Cognitive Science at the moment, which is very dull.</p>
+<p><a href="http://www.squarefree.com/archives/000369.html">Jesse lets you experience Google's secret new look</a><br/><br />
+<a href="http://www.eweek.com/article2/0,1759,1546151,00.asp">Whidbey has been delayed.</a> <a href="http://weblogs.asp.net/scottgu/archive/2003/11/25/39620.aspx">Will I ever be able to use ASP.net and generate nice mark up?</a><br/><br />
+<a href="http://forums.mozillazine.org/viewtopic.php?t=61223">Thunderbird has an installer and some Junk Mail filter improvements</a></p>

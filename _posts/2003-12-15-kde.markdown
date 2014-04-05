@@ -1,0 +1,22 @@
+---
+layout: post
+status: publish
+published: true
+title: KDE
+author: admin
+author_login: admin
+author_email: colinramsay@gmail.com
+wordpress_id: 13
+wordpress_url: http://www.colinramsay.co.uk/?p=13
+date: !binary |-
+  MjAwMy0xMi0xNSAyMzoyNTo0MiArMDAwMA==
+date_gmt: !binary |-
+  MjAwMy0xMi0xNSAyMzoyNTo0MiArMDAwMA==
+categories:
+- Personal
+tags: []
+comments: []
+---
+<p><a href="http://slashdot.org/article.pl?sid=03/12/15/1832226&mode=nested&tid=121&tid=185&tid=189">This article</a> made me think about switching to Linux again. <a href="http://www.xfce.org/images/screenshots/default.png" title="XFCE Window Manager">And this</a> Window Manager is supposed to be very lightweight..... And then there's <a href="http://www.ubergeek.tv/article.php?id=27">this</a>, one of the few Windows apps without a Flash alternative - but now available through emulation.</p>
+<p>So it could be Linux time once more.... I just like the <strong>idea</strong> of Linux. Even when controlling my server through VNC, it seems much more solid, less likely to break. The way I solved a networking issue with my server by re-writing a Wireless NIC detection script really rocked....</p>
+<p>And yet... I still can't play games on it :)</p>

@@ -1,0 +1,21 @@
+---
+layout: post
+status: publish
+published: true
+title: RSS - Wha?
+author: admin
+author_login: admin
+author_email: colinramsay@gmail.com
+wordpress_id: 62
+wordpress_url: http://www.colinramsay.co.uk/?p=62
+date: !binary |-
+  MjAwNC0wNC0wMSAwMDozNDoyMiArMDEwMA==
+date_gmt: !binary |-
+  MjAwNC0wNC0wMSAwMDozNDoyMiArMDEwMA==
+categories:
+- Web
+tags: []
+comments: []
+---
+<p><a href="http://www.37signals.com/svn/">Signal VS Noise</a> asks us to <a href="http://www.37signals.com/svn/archives/000622.php">explain RSS in 10 words or less</a>... My favorite is probably "A list of everything new online since you last looked." or maybe "Get the latest site updates without visiting the webpage."</p>
+<p>To be honest, I couldn't be arsed to keep track of my blogroll without some kind of RSS Reader.</p>

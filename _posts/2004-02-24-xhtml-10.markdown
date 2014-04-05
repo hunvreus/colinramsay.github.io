@@ -1,0 +1,21 @@
+---
+layout: post
+status: publish
+published: true
+title: XHTML 1.0
+author: admin
+author_login: admin
+author_email: colinramsay@gmail.com
+wordpress_id: 34
+wordpress_url: http://www.colinramsay.co.uk/?p=34
+date: !binary |-
+  MjAwNC0wMi0yNCAwMTozMjo0MCArMDAwMA==
+date_gmt: !binary |-
+  MjAwNC0wMi0yNCAwMTozMjo0MCArMDAwMA==
+categories:
+- Site Stuff
+tags: []
+comments: []
+---
+<p>Well, if you try and validate the blog (though not the rest of the site) it's once again valid XHTML. The table-based layout is gone too. </p>
+<p>I'm also downloading a Linux kernel source so I can compile SMB support. In English, this means my songs will soon be back!</p>

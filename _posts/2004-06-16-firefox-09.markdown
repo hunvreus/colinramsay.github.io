@@ -1,0 +1,21 @@
+---
+layout: post
+status: publish
+published: true
+title: Firefox 0.9
+author: admin
+author_login: admin
+author_email: colinramsay@gmail.com
+wordpress_id: 92
+wordpress_url: http://www.colinramsay.co.uk/?p=92
+date: !binary |-
+  MjAwNC0wNi0xNiAyMzo0Mzo0NCArMDEwMA==
+date_gmt: !binary |-
+  MjAwNC0wNi0xNiAyMzo0Mzo0NCArMDEwMA==
+categories:
+- Mozilla
+tags: []
+comments: []
+---
+<p>Well 0.9 is out. The main issue I'm seeing is people complaining about extensions not working - they wanted to go from 0.8 > 0.9 and still have all their extensions. This was never going to happen due to the overhaul of the Extension Manager, but that fact should have been made a lot clearer where ever 0.9 was offered for download.</p>
+<p>Anyway, I've just been scanning through <a href="http://update.mozilla.org">u.m.o.</a> and picked up a few new extensions. I fully support this way of creating a browser - picking and choosing your functionality is a great way to go about things.</p>
