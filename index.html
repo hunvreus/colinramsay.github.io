@@ -1,13 +1,22 @@
 ---
 layout: default
-title: Your New Jekyll Site
+title: colinramsay.co.uk
 ---
 
 <div id="home">
-  <h1>Blog Posts</h1>
-  <ul class="posts">
-    {% for post in site.posts %}
-      <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
-    {% endfor %}
-  </ul>
+	<h1><a href="/">colinramsay.co.uk</a></h1>
+
+	<p class="intro">I'm a software developer at <a href="http://www.gotripod.com">Go Tripod</a> specialising in JavaScript. I co-authored a <a href="http://www.packtpub.com/authors/profiles/colin-ramsay/">couple of books</a> on the Ext JS framework, my current favourite technology is <a href="http://facebook.github.io/react/">ReactJS</a>, and I'm a big fan of <a href="https://www.google.co.uk/search?q=chocolate+biscuits&tbm=isch">chocolate biscuits</a>.</p>
+
+	<ul class="posts">
+		{% for post in site.posts limit: 5 %}
+		<li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
+		{% endfor %}
+	</ul>
+
+	<ul class="links">
+		<li><a href=""><i class="cr-archive"></i> Archive</a></li>
+		<li><a href=""><i class="cr-github"></i> Github</a></li>
+		<li><a href=""><i class="cr-twitter"></i> Twitter</a></li>
+	</ul>
 </div>
