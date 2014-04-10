@@ -64,6 +64,12 @@ a:visited { xcolor: #a0a; }
 }
 
 @media only screen and (max-width: 767px) {
+  .site { text-align: left !important; padding: 1.25em !important; margin-top: 1em !important; }
+
+  h1 { font-size: 1.5em; margin: 0px 0 10px;}
+  h1 i { margin-left: 0px; }
+  h1 span { top: 0px; left: 1.2em;}
+
   .posts li {
     line-height: 1em;
     margin-bottom: 10px;
@@ -75,7 +81,11 @@ a:visited { xcolor: #a0a; }
 
   .intro {
     font-size: 0.95em;
-    line-height: 1.25em;
+    line-height: 1.4em;
+  }
+
+  .links {
+    font-size: 0.9em;
   }
 }
 
