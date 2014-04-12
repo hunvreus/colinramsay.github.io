@@ -1,0 +1,62 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+
+	<style type="text/css">
+	
+		body {
+			font-family: verdana;
+			font-size: 62.5%;
+		}
+	
+		.isense {
+			border: 1px solid #ccc;
+			background: white;
+		}
+	
+		.isense ul {
+			list-style: none;
+			padding: 0;
+			margin: 3px 0;
+		}
+		
+		.isense li {
+			padding: 3px;
+		}
+		
+		.isense a {
+			color: black;
+			font-size: 11px;
+			border: 3px double white;
+		}
+		
+		.isense a:focus {
+			border: 3px double white;
+			background: black;
+			color: white;
+			text-decoration: none;
+		}
+	</style>
+
+	<script src="intellisense.js"></script>
+	<script type="text/javascript">
+
+		window.onload = function() {			
+			var ins = new Plastiscenic.intellisense({
+				url: null, //'qunit/sample-results.json', 
+				localData: "['Result 1','Result 2']",
+				debug: true,
+				textarea: document.getElementById('txt'),
+				tokenizer: new Plastiscenic.defaultTokenizer()
+			});
+		};
+	</script>
+</head>
+<body>
+	<h1>Javascript Intellisense Demo</h1>
+	<p>Start typing below. Full stop / dot character triggers intellisense with dummy data. Tab moves from the textarea to the result picker, and cycles through results.</p>
+	<textarea id="txt" cols="50" rows="15"></textarea>
+</body>
+</html>

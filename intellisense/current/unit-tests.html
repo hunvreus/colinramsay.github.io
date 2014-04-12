@@ -1,0 +1,73 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <script src="intellisense.js"></script>
+  <script src="qunit/jquery-latest.js"></script>
+  <link rel="stylesheet" href="qunit/testsuite.css" type="text/css" media="screen" />
+  <script type="text/javascript" src="qunit/testrunner.js"></script>
+
+<script type="text/javascript">
+	
+	$(document).ready(function(){
+		module("Default Tokenizer");
+		
+		var i = new Plastiscenic.defaultTokenizer();
+		
+		test("Single Word Token", function() {
+			var t = 'token';
+			equals(t, i.getToken(t));
+		});
+		
+		test("Space is delimiter", function() {
+			var t = 'first second';
+			equals(i.getToken(t), 'second');
+		});
+		
+		test("Newline is delimiter", function() {
+			var t = 'first\n\rsecond';
+			equals(i.getToken(t), 'second');
+		});
+
+		test("Semicolon  is delimiter", function() {
+			var t = 'first;second';
+			equals(i.getToken(t), 'second');
+		});
+
+		test("Dot is delimiter", function() {
+			var t = 'first.second';
+			equals(i.getToken(t), 'second');
+		});
+		
+		module("Intellisense")
+	
+		test("new intellisense without config throws", function() {
+		
+			var thrown = false;
+			var msg;
+
+			try {
+				new Plastiscenic.intellisense();
+			} catch(e) {
+				msg = e;
+				thrown = true;
+			}
+			
+			ok(thrown, 'Exception should be thrown ' + msg);
+		});
+	});
+
+</script>
+</head>
+<body>
+ <h1>Intellisense Unit Tests</h1>
+ 
+ <h2 id="userAgent"></h2>
+
+ <ol id="tests"></ol>
+
+ <div id="main"></div>
+
+</body>
+</html>

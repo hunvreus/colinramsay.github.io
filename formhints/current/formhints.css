@@ -1,0 +1,134 @@
+.formHint {
+	background: none;
+	text-align: left;
+	font-size: 11px;
+	color: #333;
+	border: 1px solid blue;
+	position: relative;
+}
+
+.formHint * {
+	margin: 0;
+}
+
+.topLeft {
+	width: 14px;
+	height: 10px;
+	filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, sizingMethod=crop src='images/hint-background-top-left.png');
+}
+
+html>body .topLeft {
+	background: url(images/hint-background-top-left.png) top left no-repeat;
+}
+
+.top {
+	height: 10px;
+	filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, sizingMethod=scale src='images/hint-background-top.png');
+}
+
+html>body .top {
+	background: url(images/hint-background-top.png) top left repeat-x;
+}
+
+
+.topRight {
+	height: 10px;
+	width: 15px;
+	filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, sizingMethod=crop src='images/hint-background-top-right.png');
+}
+
+html>body .topRight {
+	background: url(images/hint-background-top-right.png) top left no-repeat;
+}
+
+.content {
+
+}
+
+.left {
+	width: 14px;
+	filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, sizingMethod=crop src='images/hint-background-left.png');
+}
+
+html>body .left {
+	background: url(images/hint-background-left.png) top left no-repeat;
+}
+
+.right {
+	width: 15px;
+	filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, sizingMethod=scale src='images/hint-background-right.png');
+}
+
+html>body .right {
+	background: url(images/hint-background-right.png) top left repeat-y;
+}
+
+.bottomLeft {
+	width: 14px;
+	height: 16px;
+	filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, sizingMethod=crop src='images/hint-background-bottom-left.png');
+}
+
+html>body .bottomLeft {
+	background: url(images/hint-background-bottom-left.png) top left no-repeat;
+}
+
+.bottom {
+	height: 16px;
+	filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, sizingMethod=scale src='images/hint-background-bottom.png');
+}
+
+html>body .bottom {
+	background: url(images/hint-background-bottom.png) top left repeat-x;
+}
+
+.bottomRight {
+	width: 15px;
+	height: 16px;
+	filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, sizingMethod=crop src='images/hint-background-bottom-right.png');
+}
+
+html>body .bottomRight {
+	background: url(images/hint-background-bottom-right.png) top left no-repeat;
+}
+
+/*
+.content {
+	margin: 0;
+	padding: 20px 20px 0 0;
+	filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, sizingMethod=crop src='images/hint-background.png');
+	xposition: absolute;
+	margin-left: 20px;
+}
+
+html>body .content {
+	background: url(images/hint-background.png) top right no-repeat;
+}
+
+
+.formHint div.footerLeft {
+	border: 1px solid blue;
+	height: 13px;
+	margin: 0;
+	filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, sizingMethod=scale src='images/hint-background.png');
+}
+
+html>body .formHint div.footerLeft {
+	background: url(images/hint-background.png) bottom left no-repeat;
+}
+
+div.footerRight {
+	position: absolute;
+	right: 0;
+	bottom: 0;
+	width: 20px;
+	border: 1px solid green;
+	height: 13px;
+	margin: 0;
+	filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, sizingMethod=scale src='images/hint-background.png');
+}
+
+html>body div.footerRight {
+	background: url(images/hint-background.png) bottom left no-repeat;
+}
+*/

@@ -1,0 +1,50 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+	<head><title>FormHints Demo</title>
+		<style type="text/css">
+			label {
+				display: block;
+				position: relative;
+				width: 300px;
+				padding: 5px 0;
+			}
+
+			input, select {
+				position: absolute;
+				left: 150px;
+			}
+			
+			button {
+				margin: 10px 0 0 150px;
+				cursor: pointer;
+			}
+		</style>
+		<link rel="stylesheet" type="text/css" href="formhints.css" />
+		<script type="text/javascript" src="formhints.js"></script>
+	</head>
+	<body>
+		<h1>FormHints Demo</h1>
+		<form action="fake.php" method="post">
+
+			<label>
+				First Name: <input name="firstname" class="hasHint" />
+				<div id="hint-firstname">
+					<p>hello test!!</p>
+					<img src="http://www.google.co.uk/intl/en_uk/images/logo.gif" />
+				</div>
+			</label>
+			<label>Surname: <input name="surname" /></label>
+			<label>Sex: <select name="sex" title="Pick your sex" class="hasHint">
+							<option>Male</option>
+							<option>Female</option>
+						</select>
+						<div id="hint-sex">
+							<p>What sex are you?</p>
+						</div>
+			</label>
+
+			<button type="submit">Submit</button>
+		</form>
+	</body>
+</html>
