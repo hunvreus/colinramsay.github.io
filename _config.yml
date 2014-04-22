@@ -1,6 +1,3 @@
 name: colinramsay.co.uk
 markdown: redcarpet
 pygments: true
-
-assets:
-  css_compressor: sass
