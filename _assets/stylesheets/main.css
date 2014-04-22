@@ -1,3 +1,5 @@
+//= require syntax
+
 /*****************************************************************************/
 /*
 /* Common
@@ -151,11 +153,11 @@ img.alignright {
 
 @font-face {
   font-family: 'crweb';
-  src:url('fonts/crweb.eot?-j9imaj');
-  src:url('fonts/crweb.eot?#iefix-j9imaj') format('embedded-opentype'),
-    url('fonts/crweb.woff?-j9imaj') format('woff'),
-    url('fonts/crweb.ttf?-j9imaj') format('truetype'),
-    url('fonts/crweb.svg?-j9imaj#crweb') format('svg');
+  src:url('/fonts/crweb.eot?-j9imaj');
+  src:url('/fonts/crweb.eot?#iefix-j9imaj') format('embedded-opentype'),
+    url('/fonts/crweb.woff?-j9imaj') format('woff'),
+    url('/fonts/crweb.ttf?-j9imaj') format('truetype'),
+    url('/fonts/crweb.svg?-j9imaj#crweb') format('svg');
   font-weight: normal;
   font-style: normal;
 }
