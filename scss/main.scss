@@ -24,7 +24,7 @@ h1, h2, h3, h4, h5, h6 {
   font-size: 100%; }
 
 h1 { font-family: 'IM Fell Great Primer'; font-size: 34px; margin: 0px 0 30px; height: 25px; }
-h1 a { color: black; text-decoration: none; position: relative; }
+h1 a { color: black; text-decoration: none; position: relative; display: block; }
 h1 i { display: inline-block; position: absolute; margin-left: -5px; }
 h1 span { position: absolute; display: block; top: 5px; left: 32px;}
 
