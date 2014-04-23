@@ -1,7 +1,7 @@
 ---
 layout: post
 title: I Am So Annoyed About RSS
-published: false
+published: true
 ---
 
 I've just been browsing the remarkable [Humans Of New York](http://www.humansofnewyork.com/) site, which is powered by Tumblr, and like every Tumblr site, it'll slide up a little box on the bottom-right of the screen to let you follow that site in your Tumblr dashboard. It's a great site, so I would indeed like to follow it. I'll think about it.
