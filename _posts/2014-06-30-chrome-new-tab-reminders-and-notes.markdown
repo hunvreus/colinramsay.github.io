@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Chrome New Tab Reminders and Notes
-published: false
+published: true
 ---
 
 The stock New Tab page in Chrome isn't much use to me, since the address bar does all the searching of my history, bookmarks and Google itself quicker than clicking around the screen. For some reason, you can't just set the New Tab page to an arbitrary website either, which would have been useful.
