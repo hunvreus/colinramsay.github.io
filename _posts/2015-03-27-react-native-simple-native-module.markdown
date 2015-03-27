@@ -4,7 +4,7 @@ title: React Native - Super Simple Native Module Example
 published: true
 ---
 
-For whatever reason, you want to send a string from the Obj-C side down to React Native. One example might be to do something with the device's file system. In Xcode, use File > New > File... to create a new Cocoa Touch class that extends NSObject. I've called the class SomeString:
+For whatever reason, you want to send a string from the Obj-C side down to React Native. One example might be to do something with the device's file system, like retrieve the path of a resource or document. In Xcode, use File > New > File... to create a new Cocoa Touch class that extends NSObject. I've called the class SomeString:
 
 {% highlight objective-c %}
 //  SomeString.h
