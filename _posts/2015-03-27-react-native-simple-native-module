@@ -1,0 +1,44 @@
+---
+layout: post
+title: React Native - Super Simple Native Module Example
+published: true
+---
+
+For whatever reason, you want to send a string from the Obj-C side down to React Native. One example might be to do something with the device's file system. In Xcode, use File > New > File... to create a new Cocoa Touch class that extends NSObject. I've called the class SomeString:
+
+{% highlight objective-c %}
+//  SomeString.h
+
+#import "RCTBridgeModule.h"
+
+@interface SomeString : NSObject<RCTBridgeModule>
+
+@end
+
+//  SomeString.m
+#import "SomeString.h"
+
+@implementation SomeString
+- (void) get:(RCTResponseSenderBlock)callback {
+    RCT_EXPORT();
+
+    // Change this depending on what you want to retrieve:
+    NSString* someString = @"something";
+
+    callback(@[someString]);
+}
+
+@end
+{% endhighlight %}
+
+RCT_EXPORT makes the method available to React Native. Notice that we need to use a callback in order to send a value back to JS, we can't just return it from the method. That means that the calling JavaScript looks like this:
+
+{% highlight javascript %}
+var ss = require('NativeModules').SomeString;
+
+ss.get(someString => {
+    console.log(someString);
+});
+{% endhighlight %}
+
+If you've got the Chrome Debugger open (press CMD+D in the Simulator to pop it open) then you'll see your string logged in the console. Easy peasy!
