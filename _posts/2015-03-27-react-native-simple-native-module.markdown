@@ -4,7 +4,7 @@ title: React Native - Super Simple Native Module Example
 published: true
 ---
 
-UPDATE: The API for this changed slightly on 9th April. Rather than using just RCT_EXPORT you must use RCT_EXPORT_MODULE for the class and RCT_EXPORT_METHOD on the methods you want to export. The article has been amended to reflect this.
+UPDATE: The API for this changed slightly on 9th April. Rather than using just RCT\_EXPORT you must use RCT\_EXPORT\_MODULE for the class and RCT\_EXPORT\_METHOD on the methods you want to export. The article has been amended to reflect this.
 
 For whatever reason, you want to send a string from the Obj-C side down to React Native. One example might be to do something with the device's file system, like retrieve the path of a resource or document. In Xcode, use File > New > File... to create a new Cocoa Touch class that extends NSObject. I've called the class SomeString:
 
