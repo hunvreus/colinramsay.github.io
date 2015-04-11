@@ -11,6 +11,7 @@ In order to have multiple screens in an app, we need a method of moving between 
 First up, let's set up all of our module includes and whatnot:
 
 {% highlight javascript %}
+{% raw %}
 'use strict';
 
 var React = require('react-native');
@@ -22,7 +23,7 @@ var {
   NavigatorIOS,
   TouchableHighlight
 } = React;
-{% end %}
+{% endhighlight %}
 
 Standard stuff - notice that we require the NavigatorIOS component. Now on to the main app component:
 
@@ -46,13 +47,15 @@ var NavDemo = React.createClass({
         );
     }
 });
-{% end %}
+{% endraw %}
+{% endhighlight %}
 
 Ah, there you are NavigatorIOS! The important bit is the `initialRoute` prop, which is supplied with some fairly self-explanatory values: `component` - the first component to be shown inside the NavigatorIOS, in this case `HomeScene`; `title` - the initial text inside the navigation toolbar; `rightButtonTitle` - the text for the button on the right side of the toolbar; `onRightButtonPress` - a handler function for when that button is pressed.
 
 Notice too that we've added a `ref` prop to the NavigatorIOS which allows us to grab a reference to it from our `onRightButtonPress` handler. In there, we call the `push` method on the NavigatorIOS - which is part of its underlying [Navigator instance](http://facebook.github.io/react-native/docs/navigator.html) - with the same kind of parameters as we used for the `initialRoute`, but this time we're passing in a component called `ForRightScene` which we'll look at shortly. First though, let's take a look at the `HomeScene`.
 
 {% highlight javascript %}
+{% raw %}
 var HomeScene = React.createClass({
     onPress() {
         this.props.navigator.push({
@@ -71,7 +74,8 @@ var HomeScene = React.createClass({
         );
     }
 });
-{% end %}
+{% endraw %}
+{% endhighlight %}
 
 The guts of this is a TouchableHighlight that triggers the `onPress` handler. Because components under the control of the NavigatorIOS will always have a `navigator` prop automatically set, we can grab that and use it to push a new component - `ForTouchScene` - into the routing stack.
 
@@ -100,7 +104,7 @@ var ForTouchScene = React.createClass({
         );
     }
 });
-{% end %}
+{% endhighlight %}
 
 Super-simple. The rest of the app looks like this:
 
@@ -117,13 +121,13 @@ var styles = StyleSheet.create({
 });
 
 AppRegistry.registerComponent('rctnavigator', () => NavDemo);
-{% end %}
+{% endhighlight %}
 
 There's one slight quirk here which is that unless you specify otherwise, your content will be hidden under the navigation toolbar. To counter this, we set a top padding of 64 to clear the nav bar and an additional ten on top of that to balance it with the padding for the other sides. We use this in our components like this:
 
 {% highlight javascript %}
 {[styles.scene, {backgroundColor: '#FFF1E8'}]}
-{% end %}
+{% endhighlight %}
 
 This technique - using an array of styles - allows us to combine two sets of styling, using one as a base and another which is specific to this particular component.
 
