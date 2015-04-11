@@ -29,6 +29,7 @@ var {
 Standard stuff - notice that we require the NavigatorIOS component. Now on to the main app component:
 
 {% highlight javascript %}
+{% raw %}
 var NavDemo = React.createClass({
     onRightButtonPress: function() {
         this.refs.nav.push({
