@@ -6,7 +6,7 @@ published: true
 
 In order to have multiple screens in an app, we need a method of moving between them. React Native provides the NavigatorIOS component which does exactly this and I've been having a play around with its basic usage. Here's the result:
 
-<div style="padding: 5px; background: #EEEEF2;"><img src="/images/navigatorios.gif" style="margin: 0 auto; width: 372px; border: 1px solid #9A9AAE;" alt="NavigatorIOS in Action" /></div>
+<div style="padding: 7px; background: #EEEEF2; margin: 0 auto; width: 386px;"><img src="/images/navigatorios.gif" style="border: 1px solid #BCBCC9;" alt="NavigatorIOS in Action" /></div>
 
 First up, let's set up all of our module includes and whatnot:
 
