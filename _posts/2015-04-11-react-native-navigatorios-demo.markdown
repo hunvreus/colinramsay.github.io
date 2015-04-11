@@ -23,6 +23,7 @@ var {
   NavigatorIOS,
   TouchableHighlight
 } = React;
+{% endraw %}
 {% endhighlight %}
 
 Standard stuff - notice that we require the NavigatorIOS component. Now on to the main app component:
