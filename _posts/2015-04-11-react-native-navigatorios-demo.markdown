@@ -50,7 +50,7 @@ var NavDemo = React.createClass({
 
 Ah, there you are NavigatorIOS! The important bit is the `initialRoute` prop, which is supplied with some fairly self-explanatory values: `component` - the first component to be shown inside the NavigatorIOS, in this case `HomeScene`; `title` - the initial text inside the navigation toolbar; `rightButtonTitle` - the text for the button on the right side of the toolbar; `onRightButtonPress` - a handler function for when that button is pressed.
 
-Notice too that we've added a `ref` prop to the NavigatorIOS which allows us to grab a reference to it from our `onRightButtonPress` handler. In there, we call the `push` method on the NavigatorIOS (which is part of its underlying (http://facebook.github.io/react-native/docs/navigator.html)[Navigator instance]) with the same kind of parameters as we used for the `initialRoute`, but this time we're passing in a component called `ForRightScene` which we'll look at shortly. First though, let's take a look at the `HomeScene`.
+Notice too that we've added a `ref` prop to the NavigatorIOS which allows us to grab a reference to it from our `onRightButtonPress` handler. In there, we call the `push` method on the NavigatorIOS - which is part of its underlying [Navigator instance](http://facebook.github.io/react-native/docs/navigator.html) - with the same kind of parameters as we used for the `initialRoute`, but this time we're passing in a component called `ForRightScene` which we'll look at shortly. First though, let's take a look at the `HomeScene`.
 
 {% highlight javascript %}
 var HomeScene = React.createClass({
