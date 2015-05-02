@@ -1,3 +1,9 @@
+---
+layout: post
+title: Ext JS Application Development Blueprints is Out Now
+published: true
+---
+
 After nine months in gestation, Packt have released my first solo book - [Ext JS Application Development Blueprints](https://www.packtpub.com/web-development/ext-js-application-development-blueprints). I'm really proud of the end result, and I hope that it helps some people get to grips with a framework that is bursting at the seams with advanced features.
 
 It looks at app development from various levels - from that of an architect guiding a team, to that of a solo developer - and provides a look at the theory of application architecture with MVC and MVVM in Ext JS before moving on to look at the tooling provided by Sencha Command.
