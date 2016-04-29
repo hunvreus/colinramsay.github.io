@@ -60,7 +60,7 @@ Expand the FacebookAwsReactNative > Libraries folder and select all of the items
 Let's move on to configuring the Facebook SDK. Open up info.plist using Open As > Source Code, and add the follow inside the root `<dict>` node:
 
 
-```
+```xml
 <key>CFBundleURLTypes</key>
 <array>
   <dict>
@@ -78,20 +78,20 @@ Let's move on to configuring the Facebook SDK. Open up info.plist using Open As 
 
 Next, open AppDelegate.m and add a new import:
 
-```
+```objc
 #import <FBSDKCoreKit/FBSDKCoreKit.h>
 ```
 
 Connect our AppDelegate to the FBSDKApplicationDelegate by adding the following to `didFinishLaunchingWithOptions`:
 
-```
+```objc
 [[FBSDKApplicationDelegate sharedInstance] application:application
     didFinishLaunchingWithOptions:launchOptions];
 ```
 
 And finally, add a method to allow us to navigate back to our app from Facebook:
 
-```
+```objc
 - (BOOL)application:(UIApplication *)application openURL:(NSURL *)url sourceApplication:(NSString *)sourceApplication annotation:(id)annotation {
   return [[FBSDKApplicationDelegate sharedInstance] application:application
     openURL:url
@@ -107,14 +107,14 @@ Wonderful. Run the project and get your simulator running because we're now read
 
 We need to import the button component, and at the same time we'll import another class that we'll use later. Add the following:
 
-```
+```jsx
 import { FBSDKAccessToken } from 'react-native-fbsdkcore';
 import { FBSDKLoginButton } from 'react-native-fbsdklogin';
 ```
 
 Delete all of the default stuff inside the `<View>` component and replace it with the button code:
 
-```
+```jsx
 <FBSDKLoginButton
     onLoginFinished={this.onLoginFinished}
     onLogoutFinished={this.onLogoutFinished=}
@@ -124,7 +124,7 @@ Delete all of the default stuff inside the `<View>` component and replace it wit
 
 We now need to add `onLoginFinished` and `onLogoutFinished` methods to our FacebookAwsReactNative class.
 
-```
+```jsx
 onLogoutFinished() {
     alert('Logged out.');
 }
@@ -132,7 +132,7 @@ onLogoutFinished() {
 
 Simple!
 
-```
+```jsx
 onLoginFinished(error, result) {
     if (error) {
         alert('Error logging in.');
@@ -152,13 +152,13 @@ But we want to take one more step; we want to be able to link this login to pers
 
 First, we need to get an access token from Facebook to use as a link between FB and Cognito. `FBSDKAccessToken.getCurrentAccessToken` takes a single callback argument which is passed the token we need. We then need to install (follow the [instructions](https://github.com/morcmarc/react-native-cognito)) and import React Native Cognito. Add this along with your other import statements:
 
-```
+```jsx
 import Cognito from 'react-native-cognito';
 ```
 
 Next, we initialise the credentials for Cognito and sync up some data!
 
-```
+```jsx
 FBSDKAccessToken.getCurrentAccessToken((token) => {
     if (token) {
         Cognito.initCredentialsProvider(
