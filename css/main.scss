@@ -1,4 +1,13 @@
-@import "webfont";
+---
+---
+
+@font-face {
+  font-family: 'IM Fell Great Primer';
+  font-style: normal;
+  font-weight: 400;
+  src: local('IM FELL Great Primer Roman'), local('IM_FELL_Great_Primer_Roman'), url(//themes.googleusercontent.com/licensed/font?kit=AL8ALGNthei20f9Cu3e93gHGIzAUbVxY7lpe7Zy4XGNfcHS2kLbsDWwNkOtdnMa-) format('woff');
+}
+
 
 /*****************************************************************************/
 /*
