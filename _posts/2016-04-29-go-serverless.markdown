@@ -4,6 +4,8 @@ title: Go Serverless With React Native and Amazon Web Services
 published: true
 ---
 
+This post is also available on the blog of [my software company, Go Tripod](http://www.gotripod.com/go-tripod-go-serverless).
+
 Amazon's cloud offering, AWS, provides a wealth of resources for developers and infrastructure engineers. In this article, I'll show how [Amazon Cognito](aws.amazon.com/cognito/) can be used to record user preferences and data without having to set up a server or database. I'll build a small React Native application which allows a user to log in with Facebook and save some data to the cloud for later retrieval.
 
 ## Facebook Login
