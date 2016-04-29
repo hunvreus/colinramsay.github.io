@@ -152,7 +152,9 @@ But we want to take one more step; we want to be able to link this login to pers
 
 First, we need to get an access token from Facebook to use as a link between FB and Cognito. `FBSDKAccessToken.getCurrentAccessToken` takes a single callback argument which is passed the token we need. We then need to install (follow the [instructions](https://github.com/morcmarc/react-native-cognito)) and import React Native Cognito. Add this along with your other import statements:
 
+```
 import Cognito from 'react-native-cognito';
+```
 
 Next, we initialise the credentials for Cognito and sync up some data!
 
