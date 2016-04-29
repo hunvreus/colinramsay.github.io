@@ -110,7 +110,7 @@ We need to import the button component, and at the same time we'll import anothe
 ```
 import { FBSDKAccessToken } from 'react-native-fbsdkcore';
 import { FBSDKLoginButton } from 'react-native-fbsdklogin';
-``
+```
 
 Delete all of the default stuff inside the `<View>` component and replace it with the button code:
 
