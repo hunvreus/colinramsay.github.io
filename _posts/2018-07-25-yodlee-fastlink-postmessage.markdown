@@ -13,3 +13,9 @@ Having rummaged through the Fastlink JavaScript source, I found that the postMes
 ```
 
 Hopefully this saves someone else from wasting several hours while being ignored by Yodlee's support staff.
+
+UPDATE! _Two weeks_ after I requested support, Yodlee sent me this:
+
+> Apologies for the delayed response. The sandbox environment doesn't enable the post messages on the FastLink iFrame, which is why you're not seeing a response. 
+
+Seems like they don't know their own product too well...
