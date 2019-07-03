@@ -14,13 +14,13 @@ COPY . /app
 A handy Makefile:
 
 ```
-PREFIX = docker run -v "$(shell pwd)":/app --rm --name rubyetl rubyetl
+PREFIX = docker run -v "$(shell pwd)":/app --rm --name appname imagename
 
 build:
-	docker build -t rubyetl .
+	docker build -t imagename .
 
 test: build
-	$(PREFIX) bundle exec rspec spec/shortcut_transform_spec.rb
+	$(PREFIX) bundle exec rspec spec
 ```
 
 Create a Gemfile and add some gems to it:
