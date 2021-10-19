@@ -2,8 +2,6 @@ I've got a [working NixOS setup](https://github.com/colinramsay/nix-config/) whi
 
 The information in this post can be found in various wikis, gists and blog posts. I'm just going to explain how I got it to work on my setup with the aid of some diffs.
 
-# Adding Nix Flakes
-
 Since Flakes are still experimental, we need to add them to our configuration:
 
 ```
@@ -23,19 +21,54 @@ Since Flakes are still experimental, we need to add them to our configuration:
 
 ```
 
-https://github.com/colinramsay/nix-config/commit/44c5e96ab3e6f78d5861dc04a98dba458e9a0a00
-
 And then rebuild and switch to this new configuration with `sudo nixos-rebuild switch`. I can then run `nix flake init` to get a new flake.nix file, but we're going to ignore the contents of that and use the following:
 
 ```
 {
-  outputs = { self, nixpkgs }: {
-    nixosConfigurations.localhost = nixpkgs.lib.nixosSystem {
+  # the source of your packages
+  inputs = {
+    # normal nix stuff
+    nixpkgs.url = "github:NixOS/nixpkgs/nixos-21.05";
+    # home-manager stuff
+    home-manager.url = "github:nix-community/home-manager/release-21.05";
+
+    # use the version of nixpkgs we specified above rather than the one HM would ordinarily use
+    home-manager.inputs.nixpkgs.follows = "nixpkgs";
+  };
+
+  # what will be produced (i.e. the build)
+  outputs = inputs: {
+    # define a "nixos" build
+    nixosConfigurations.nixos = inputs.nixpkgs.lib.nixosSystem {
+      # system to build for
       system = "x86_64-linux";
-      modules = [ ./configuration.nix ];
+      # modules to use
+      modules = [
+        ./configuration.nix # our previous config file
+        inputs.home-manager.nixosModules.home-manager # make home manager available to configuration.nix
+        {
+          # use system-level nixpkgs rather than the HM private ones
+          # "This saves an extra Nixpkgs evaluation, adds consistency, and removes the dependency on NIX_PATH, which is otherwise used for importing Nixpkgs."
+          home-manager.useGlobalPkgs = true;
+        }
+      ];
     };
   };
 }
 ```
 
-Now if you rebuild, nix will detect the flake.nix file and start downloading a bunch of stuff
+Then remove the existing reference to home-manager from configuration.nix which Flakes considers to be impure:
+
+```
+--- a/configuration.nix
++++ b/configuration.nix
+@@ -117,7 +117,7 @@
+ 
+   imports = [ # Include the results of the hardware scan.
+     ./hardware-configuration.nix
+-    <home-manager/nixos>
++    #<home-manager/nixos>
+   ];
+```
+
+Now if you rebuild, nix will detect the flake.nix file and start downloading a bunch of stuff and build your system, depositing a flake.lock file in your working directory which you can commit to source control. This contains the revisions of nixpkgs and home-manager that the system was built from so it can be rebuilt if necessary.
