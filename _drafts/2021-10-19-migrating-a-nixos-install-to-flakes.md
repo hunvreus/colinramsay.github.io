@@ -71,4 +71,6 @@ Then remove the existing reference to home-manager from configuration.nix which 
    ];
 ```
 
+https://github.com/colinramsay/nix-config/commit/116f06c2bf30e9ce65f27323c77d2bee351aa755
+
 Now if you rebuild, nix will detect the flake.nix file and start downloading a bunch of stuff and build your system, depositing a flake.lock file in your working directory which you can commit to source control. This contains the revisions of nixpkgs and home-manager that the system was built from so it can be rebuilt if necessary.
