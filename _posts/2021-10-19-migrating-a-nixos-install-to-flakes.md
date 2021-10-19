@@ -1,3 +1,9 @@
+---
+layout: post
+title: Migrating a NixOS Install to Flakes
+published: true
+---
+
 I've got a [working NixOS setup](https://github.com/colinramsay/nix-config/) which I'd like to convert to use Flakes in order to improve reproduceablility. I had a scenario recently whereby I updated the channels I was subscribed to and then rebuilt, and had a build error. There's no way to roll back the channel update in that case. Flakes should fix this, because my current build will pin the commit hashes of versions it was built with.
 
 The information in this post can be found in various wikis, gists and blog posts. I'm just going to explain how I got it to work on my setup with the aid of some diffs.
