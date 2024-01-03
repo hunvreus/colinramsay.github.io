@@ -39,7 +39,7 @@ This works by examining your entire system and creating a giant file which descr
 
 etckeeper + dotfile management is something I haven't looked at much. Another for the todo list.
 
-# Sidebar: Declare vs discover
+# Sidebar 1 - Declare vs discover
 
 To my mind, there are two ways of looking at this problem:
 
@@ -47,6 +47,10 @@ To my mind, there are two ways of looking at this problem:
 2. Run some stuff, then later, run something else that checks what you did and scripts it out (the others)
 
 Looking at it this way, I suppose I should also be looking at things like Ansible or Puppet for the first option. I've briefly used Ansible and it was fine for _initial setup_. Where I think it might be lacking is for maintenance, since when you make changes to the system there's scope for that to drift from what Ansible/Puppet thinks is the current state. They also both _seem_ to be geared towards server/fleet management. I have limited experience here, so this can go on the todo list.
+
+# Sidebar 2 - Secrets management
+
+I've deliberately skipped over secrets management as that's a whole can of worms I've yet to really think about.
 
 # Conclusion
 
