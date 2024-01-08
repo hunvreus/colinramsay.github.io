@@ -57,3 +57,6 @@ I've deliberately skipped over secrets management as that's a whole can of worms
 # Conclusion
 
 There's nothing here that satisfies my needs. NixOS and UBlue are impressive technical achievements, but are currently impenetrable for "normal" Linux users. The other options operate on the "discover" rather than "describe" methodology and appeal to me a lot less.
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTExNTc1Njk4ODZdfQ==
+-->
