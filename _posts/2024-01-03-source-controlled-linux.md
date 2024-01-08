@@ -24,7 +24,7 @@ I also investigated using Nix with Home Manager on a normal Linux distro. This i
 
 ## Fedora Silverblue, Universal Blue, and the like
 
-Here's what I understand: Silverblue is an immutable Linux distribution that allows you to update in an atomic fashion, and roll back in the event of problems. It allows the user to install applications with Flatpak, isolating those applications from the system at large. Universal Blue takes this concept and produces several derived images such as Bluefin or Bazite, which offer variations of Silverblue for things like gaming. In addition to that, it purports to allow the production of custom images which include changes that you opt to include.
+Here's what I understand: [Silverblue](https://fedoraproject.org/silverblue/) is an immutable Linux distribution that allows you to update in an atomic fashion, and roll back in the event of problems. It allows the user to install applications with Flatpak, isolating those applications from the system at large. Universal Blue takes this concept and produces several derived images such as Bluefin or Bazite, which offer variations of Silverblue for things like gaming. In addition to that, it purports to allow the production of custom images which include changes that you opt to include.
 
 I'm going to caveat this section by saying that I'd like to do more investigation into this genre of work. That said, I feel a bit hampered by the documentation around Universal Blue, which I feel is in its infancy, and that does put me off.
 
@@ -58,5 +58,5 @@ I've deliberately skipped over secrets management as that's a whole can of worms
 
 There's nothing here that satisfies my needs. NixOS and UBlue are impressive technical achievements, but are currently impenetrable for "normal" Linux users. The other options operate on the "discover" rather than "describe" methodology and appeal to me a lot less.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTc1Njk4ODZdfQ==
+eyJoaXN0b3J5IjpbLTcyMDI4Nzc0M119
 -->
