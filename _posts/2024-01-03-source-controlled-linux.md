@@ -1,3 +1,4 @@
+
 ---
 layout: post
 title: Source Controlled Linux
@@ -33,11 +34,12 @@ The infrastructure that has been built for this project is incredible, but even 
 
 ## Arch (via EndeavourOS) with aconfmgr
 
-This works by examining your entire system and creating a giant file which describes the files it found. You then need to sort that file as you see fit, and then run it periodically to check what's changed and sort everything again. I tried this briefly a while back, and the overhead of the sorting process and the fact I had to remember to run `aconfmgr save` every so often made it a bit of a non-starter.
+[This works](https://github.com/CyberShadow/aconfmgr) by examining your entire system and creating a giant file which describes the files it found. You then need to sort that file as you see fit, and then run it periodically to check what's changed and sort everything again. I tried this briefly a while back, and the overhead of the sorting process and the fact I had to remember to run `aconfmgr save` every so often made it a bit of a non-starter.
 
-## Other options
+## Simple configuration file management
 
-etckeeper + dotfile management is something I haven't looked at much. Another for the todo list.
+This heading covers a class of utilities that will help you back up key configuration files from your system. This approach is typically used for [dotfiles](https://wiki.archlinux.org/title/Dotfiles) using tools such as [Mackup](https://github.com/lra/mackup), [Chezmoi](https://www.chezmoi.io/) or just plain Git.
+[EtcKeeper](https://wiki.archlinux.org/title/etckeeper) is a tool which does a similar thing but for the contents of your /etc directory; I'm currently evaluating both Mackup and EtcKeeper as a simple solution to all of this.
 
 # Sidebar 1 - Declare vs discover
 
