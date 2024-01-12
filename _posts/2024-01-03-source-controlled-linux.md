@@ -2,7 +2,7 @@
 ---
 layout: post
 title: Source Controlled Linux
-published: false
+published: true
 ---
 
 # The problem
@@ -58,5 +58,6 @@ I've deliberately skipped over secrets management as that's a whole can of worms
 
 There's nothing here that satisfies my needs. NixOS and UBlue are impressive technical achievements, but are currently impenetrable for "normal" Linux users. The other options operate on the "discover" rather than "describe" methodology and appeal to me a lot less.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzgxMzUxMzUwLDE3NDkyNjgzM119
+eyJoaXN0b3J5IjpbMjA1NDMwOTQwMyw3ODEzNTEzNTAsMTc0OT
+I2ODMzXX0=
 -->
