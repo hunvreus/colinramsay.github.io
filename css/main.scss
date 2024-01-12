@@ -37,7 +37,14 @@ h1 a { color: black; text-decoration: none; position: relative; display: block; 
 h1 i { display: inline-block; position: absolute; margin-left: -5px; }
 h1 span { position: absolute; display: block; top: 5px; left: 32px;}
 
-p { margin: 1em 0; }
+h2 {
+  font-size: 130%;
+  margin: 10px 0;
+}
+
+h3 {
+  font-size: 110%;
+}
 
 a         { color: #16A085; }
 a:hover   { xcolor: #000; }
