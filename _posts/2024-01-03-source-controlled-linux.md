@@ -20,7 +20,7 @@ I have a passionate desire to _fix_ the current state of my Linux installation, 
 
 I've posted several times about [NixOS](https://nixos.org/) and I'm still fascinated by the idea. My last attempt with it followed the "[Erase Your Darlings](https://grahamc.com/blog/erase-your-darlings/)" concept, which uses a temporary filesystem that wipes out any changes you haven't explicitly configured. As has been written about at length, Nix is a wonderful _idea_, with a brilliant technical implementation, but terrible user-friendliness. Inevitably you'll come across something that takes hours of debugging and fiddling, and ultimately life's too short.
 
-I also investigated using Nix with Home Manager on a normal Linux distro. This is a worst-of-both-worlds situation, in which Nix's shebang doesn't play nicely with everything else. As a side note, Home Manager should be integrated into Nix itself.
+I also investigated using Nix with [Home Manager](https://nix-community.github.io/home-manager/) on a normal Linux distro. This is a worst-of-both-worlds situation, in which Nix's shebang doesn't play nicely with everything else. As a side note, Home Manager should be integrated into Nix itself.
 
 ## Fedora Silverblue, Universal Blue, and the like
 
@@ -58,5 +58,5 @@ I've deliberately skipped over secrets management as that's a whole can of worms
 
 There's nothing here that satisfies my needs. NixOS and UBlue are impressive technical achievements, but are currently impenetrable for "normal" Linux users. The other options operate on the "discover" rather than "describe" methodology and appeal to me a lot less.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc0OTI2ODMzXX0=
+eyJoaXN0b3J5IjpbNzgxMzUxMzUwLDE3NDkyNjgzM119
 -->
